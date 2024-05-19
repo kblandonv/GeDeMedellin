@@ -1,0 +1,332 @@
+OBJECTID,Shape,codigo,nombre,riesgo,descripcion,tipo_amenaza,categoria_proteccion,subcategoria_proteccion,Shape_Length,Shape_Area
+
+1,"(4711653.120041912, 2249555.543731642)",1204-1,La Am�rica,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,155.88117568085397,686.6397574069674
+
+2,"(4716684.437257953, 2247410.0074115666)",0913-1,Loreto,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,47.106345834323925,130.74981709165544
+
+3,"(4715172.314539709, 2254638.127533737)",0604-1,Pedregal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,128.5827542110379,608.5479813371182
+
+4,"(4715102.308922836, 2254722.1344262892)",0604-2,Pedregal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,276.8169895737861,1939.2910392442643
+
+5,"(4715194.626838867, 2254771.551784346)",0604-3,Pedregal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,71.38808435973094,270.2881109620198
+
+6,"(4717930.828072116, 2254009.6432551504)",0207-1,Villa del Socorro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,43.78949366159291,107.89020414057121
+
+7,"(4717853.870576549, 2254046.582380678)",0207-2,Villa del Socorro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,63.11281593191973,98.9338691656302
+
+8,"(4717798.271627832, 2254071.749788846)",0207-3,Villa del Socorro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,110.52642886283235,171.21895204815738
+
+9,"(4717518.351905212, 2254090.8648037515)",0207-4,Villa del Socorro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,47.72111063620191,67.6861363486382
+
+10,"(4717372.597763841, 2254085.1146633355)",0207-5,Villa del Socorro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,141.99909067913094,488.824371544409
+
+11,"(4714826.547278317, 2255979.964708343)",0602-1,Doce de Octubre No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1833.798932470978,6949.648246521772
+
+12,"(4713111.591560102, 2252649.0414252016)",0715-1,Villa Flora,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,79.3877121914836,249.13701717221483
+
+13,"(4714171.995389751, 2255871.988731092)",0612-1,El Triunfo,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,157.29334895195854,489.93626160450304
+
+14,"(4717660.253171568, 2249003.6080358042)",0808-1,Enciso,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,122.95147738476354,590.6123599195196
+
+15,"(4717576.223480894, 2255095.1590670543)",0203-1,Pablo VI,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,56.76577913841902,126.9511123773245
+
+16,"(4713933.561756501, 2253487.917245696)",0711-1,El Diamante,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,50.86033238745532,73.87405927004247
+
+17,"(4713897.4522884535, 2253517.8503913595)",0711-2,El Diamante,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,49.81540885998564,66.31735277181484
+
+18,"(4713210.521412512, 2252350.5037267916)",0716-1,Palenque,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,102.11998430415902,394.4945294454312
+
+19,"(4719061.897311449, 2254348.6779000293)",0102-1,Santo Domingo Savio No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,135.0624797521747,644.3111213355689
+
+20,"(4717939.768874825, 2252828.664493658)",0302-2,Las Granjas,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,40.93389292224671,60.89604140996693
+
+21,"(4717224.508014059, 2248353.7733644363)",0907-1,Buenos Aires,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1340.7637988439328,6113.668877612762
+
+22,"(4716787.861677037, 2248091.6690396885)",0911-1,Gerona,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,188.1634207542277,798.6406527235154
+
+23,"(4717024.814200467, 2247982.701673849)",0911-2,Gerona,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1138.5290345304463,9562.576621695347
+
+24,"(4716806.85350872, 2248410.5891516875)",0911-3,Gerona,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,43.79516678283313,62.83669051758838
+
+25,"(4710718.128358126, 2248418.4992267536)",1212-1,Santa Teresita,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,631.0484092260638,5979.679061130616
+
+26,"(4718787.788683109, 2253483.3091279427)",0109-5,Aldea Pablo VI,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,92.69664497818984,375.788150014545
+
+27,"(4717513.393581416, 2250164.0947133214)",0801-1,Villa Hermosa,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,107.27078943269677,419.32339713195574
+
+28,"(4717348.46757163, 2254100.05237474)",0210-1,Santa Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,27.29681913637693,29.398787496643134
+
+29,"(4717102.624616359, 2254189.3349113837)",0210-2,Santa Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,374.81239702657257,1384.5752433456184
+
+30,"(4716828.696278457, 2254237.1204646477)",0210-3,Santa Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,17.99422998246401,16.805590684084258
+
+31,"(4716948.206770776, 2254279.6951446626)",0210-4,Santa Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,112.6824764404858,187.17708271383356
+
+32,"(4716656.961183503, 2254169.0198055403)",0210-5,Santa Cruz,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,850.7164400997478,7808.424226101432
+
+33,"(4714325.272826738, 2253409.006072434)",0607-1,Kennedy,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1231.5984590758317,6849.077775827493
+
+34,"(4714597.629689148, 2253521.6400038637)",0607-2,Kennedy,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,751.3715351864794,3516.7929192499837
+
+35,"(4714330.188354624, 2253706.2084189393)",0607-3,Kennedy,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,168.41922382525084,669.3676372228762
+
+36,"(4714624.288313532, 2253804.21488165)",0607-4,Kennedy,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,72.90947395985488,305.9169576701959
+
+37,"(4714224.283606163, 2253821.045208587)",0607-5,Kennedy,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,322.35377091557115,1693.603560262905
+
+38,"(4716556.128867445, 2254037.8832488637)",0211-2,La Rosa,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,236.0804136621319,1057.8763520237997
+
+39,"(4717016.956720329, 2253622.2908313866)",0211-3,La Rosa,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,285.2072442218887,876.9588264323107
+
+40,"(4717441.02862768, 2250144.067239403)",0802-1,La Mansi�n,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,269.8677282649543,1246.7241380621188
+
+41,"(4717187.671171981, 2251853.5958426846)",0410-1,Campo Vald�s No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1026.8894998962953,5002.054576045168
+
+42,"(4717311.104255808, 2250549.8352387073)",0307-1,Manrique Central No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,108.93213707158063,441.9251606030887
+
+43,"(4712193.814576122, 2244851.511706807)",1610-1,El Rinc�n,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,141.4145762192972,616.127860609864
+
+44,"(4716931.964452953, 2251689.5469566314)",0414-1,Brasilia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,987.3847797683255,4645.033188225372
+
+45,"(4713307.311879816, 2249165.581899809)",1107-1,Bolivariana,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,342.4746721029277,1917.0755537234554
+
+46,"(4711289.792872376, 2249386.433624359)",1209-1,Santa M�nica,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,215.94954204993508,1517.731140495901
+
+47,"(4717745.945583968, 2251435.557754652)",0306-1,El Pomar,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,28.366235047207226,35.803895995870725
+
+48,"(4718105.272989607, 2254890.2357473383)",0201-1,La Isla,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,40.045812642646254,63.43989324233427
+
+49,"(4718099.275482353, 2255061.7431530603)",0201-2,La Isla,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,40.631748493735756,105.55916358705178
+
+50,"(4718296.253036087, 2255231.0830534236)",0201-3,La Isla,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,53.69046627614097,186.66656568962122
+
+51,"(4718135.456504974, 2253718.906618016)",0105-5,Mosc� No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,91.04734893435247,226.0797132289049
+
+52,"(4718512.634638945, 2254155.2935060775)",0101-1,Santo Domingo Savio No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,20.280306284206652,24.410793065033758
+
+53,"(4718441.008246067, 2254179.8495238367)",0101-2,Santo Domingo Savio No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,49.137183775905896,89.08515654092035
+
+54,"(4711519.486771244, 2249485.555696748)",1207-1,El Danubio,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,494.12633275587945,2663.565109263501
+
+55,"(4719241.409830814, 2254240.4574595573)",0111-4,La Avanzada,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,917.3135176952476,4921.047981877312
+
+56,"(4717238.574355125, 2255342.0809572013)",0204-1,La Frontera,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,623.1810134973598,8888.345193268518
+
+57,"(4713005.304647905, 2249096.1936159353)",1111-1,Lorena,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,361.022926118271,3202.595983402007
+
+58,"(4713148.16025709, 2249157.477416769)",1111-2,Lorena,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,460.14551905947053,6764.542767305294
+
+59,"(4712244.6365671465, 2249011.892911617)",1111-3,Lorena,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,193.51162456625698,1383.3373778239566
+
+60,"(4717932.264232454, 2254647.0466300077)",0205-2,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,51.554425166881224,170.31513136159487
+
+61,"(4717894.690480657, 2254697.801108704)",0205-3,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,261.66470826704267,1224.544202691491
+
+62,"(4718105.975669932, 2254886.1612454)",0205-4,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,34.54729470002694,58.23085438190974
+
+63,"(4717832.3156068325, 2254917.364084654)",0205-5,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,184.20614671061432,586.539346920298
+
+64,"(4717741.330851997, 2254965.600664607)",0205-6,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,49.80923372158535,119.06738173037625
+
+65,"(4717283.562864327, 2254968.435580749)",0205-7,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,96.32900093179826,264.8842262329265
+
+66,"(4717653.82130533, 2254976.4019630468)",0205-8,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,39.68481772224423,87.52549095428705
+
+67,"(4717217.41950928, 2255153.7211425765)",0205-10,La Francia,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,364.0626161401874,2783.912300995419
+
+68,"(4717613.638102762, 2254694.931628104)",0205-12,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,84.81728346878066,170.8395258136588
+
+69,"(4717881.439549826, 2247732.0433674827)",0908-1,Miraflores,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,176.57550683063863,595.1429322335755
+
+70,"(4717637.953738713, 2247813.8176002936)",0908-2,Miraflores,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,99.37101219540047,281.94707537173747
+
+71,"(4717818.475309545, 2248049.060811618)",0908-3,Miraflores,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,630.9484164754267,2913.669259532798
+
+72,"(4717712.431604545, 2248165.355034117)",0908-4,Miraflores,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,295.6062326591598,1192.107126446996
+
+73,"(4716675.351005052, 2249825.208933789)",1017-1,Los �ngeles,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,220.36575196342588,1251.15100872208
+
+74,"(4712416.901515392, 2248338.826221767)",1109-1,Las Acacias,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,196.14439667668023,1300.5604827414734
+
+75,"(4712863.326943379, 2254111.7524076044)",0713-1,Aures No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,683.1764615836946,2181.62305679881
+
+76,"(4717902.600984409, 2247703.155437431)",0909-1,Catalu�a,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,29.122596375905534,42.88001858594929
+
+77,"(4710779.489718754, 2248400.609391518)",1110-1,La Castellana,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,560.0401184608515,2724.7210703292676
+
+78,"(4716144.29096437, 2253139.149154576)",0405-4,Moravia,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,555.3126942678298,9377.039755859618
+
+79,"(4710315.160114602, 2249651.17481912)",1310-2,Veinte de Julio,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,140.96638540743965,435.4079834490008
+
+80,"(4716949.58649688, 2254284.7713378128)",0208-1,Villa Niza,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,115.19241925231677,252.38897999628304
+
+81,"(4712931.197900001, 2249076.9357666685)",1108-1,Laureles,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,43.6016365373946,38.519888863832925
+
+82,"(4714336.025883592, 2254053.6703787474)",0608-1,Picacho,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,45.79457970754654,121.23489803862688
+
+83,"(4717056.951394597, 2251048.3458891166)",0409-1,Manrique Central No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,131.48772309493802,460.9657286009838
+
+84,"(4716944.135907352, 2251107.901850057)",0409-2,Manrique Central No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,83.08301376891774,299.90388084566945
+
+85,"(4717301.261146934, 2251254.678313362)",0409-3,Manrique Central No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,428.3282433708328,2146.3379906973455
+
+86,"(4717017.857689004, 2251243.659483002)",0409-4,Manrique Central No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,300.20786933278794,1363.2723158790682
+
+87,"(4717128.76388081, 2251467.659611023)",0409-5,Manrique Central No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,72.39068720869525,286.445534233054
+
+88,"(4717854.379848848, 2254041.6268831366)",0209-2,Mosc� No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,66.0775768798415,129.58295449814133
+
+89,"(4717394.193544316, 2254065.276455343)",0209-3,Mosc� No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,23.089287047379987,24.089812407561265
+
+90,"(4717797.109740597, 2254067.9982354394)",0209-4,Mosc� No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,105.30377254253351,170.26606929481363
+
+91,"(4717519.070610591, 2254087.3180235815)",0209-5,Mosc� No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,46.535917825517274,74.80514568444038
+
+92,"(4718335.425569418, 2251614.1603509905)",0305-1,El Raizal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,63.44767010383237,99.6360288340075
+
+93,"(4711830.738186128, 2246843.725636911)",1614-1,La Palma,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,142.7631781736649,810.861000783718
+
+94,"(4718512.903880847, 2254150.6261431)",0104-3,Granizal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,25.574837813104352,36.24292926440129
+
+95,"(4718438.810019645, 2254176.573246699)",0104-4,Granizal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,44.404106765931544,49.37255204535897
+
+96,"(4718736.157554082, 2253701.0465528346)",0104-5,Granizal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,61.52762462246591,145.0560227741026
+
+97,"(4716682.303207842, 2247427.325538516)",0912-1,El Salvador,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,69.21401331442215,251.48694965250348
+
+98,"(4716706.722085662, 2247957.49210699)",0912-3,El Salvador,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,92.38560619878781,352.65399406536824
+
+99,"(4718335.631439475, 2251617.783303407)",0304-1,Santa In�s,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,63.374093745021334,91.51921980981176
+
+100,"(4718514.419176916, 2251614.131330625)",0304-2,Santa In�s,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,103.64641947055189,265.00513536485505
+
+101,"(4717164.911080987, 2247767.1389724477)",0910-1,La Milagrosa,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,125.62194106108262,798.5500635582717
+
+102,"(4716686.556292197, 2254219.201075538)",0210-8,Belalc�zar,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,128.81489204036424,489.2265478003557
+
+103,"(4716647.799259628, 2254321.8306049937)",0508-2,Belalc�zar,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,75.32357554516545,158.78532587581773
+
+104,"(4716770.862355815, 2250878.961504737)",0408-1,San Pedro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,509.82857688203967,2735.8807158390964
+
+105,"(4716868.192554703, 2251487.7184026903)",0408-2,San Pedro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,541.9141277132948,3017.681507518581
+
+106,"(4710514.349511609, 2244362.9668024285)",7007-1,San Jos� del Manzanillo,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,129.94593729128434,421.6487650145431
+
+107,"(4710455.340787956, 2244156.1989925834)",7007-2,San Jos� del Manzanillo,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,51.81785981071209,25.85979369748247
+
+108,"(4710809.773855852, 2244483.9245113395)",7007-4,San Jos� del Manzanillo,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,644.1601897545062,5480.995514353966
+
+109,"(4710486.473293909, 2244305.1828945475)",7008-1,El Jard�n,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,568.7195825219222,5352.1987014490605
+
+110,"(4719178.709357881, 2248128.281194167)",0813-49,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,129.21579372271918,103.67272194619555
+
+111,"(4717016.693837489, 2253383.934600906)",0402-2,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,66.0866067256027,192.0405204534665
+
+112,"(4716781.653330405, 2253392.201568006)",0402-3,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,54.986183079115115,167.71539227952218
+
+113,"(4716659.313734016, 2253560.4382541897)",0402-4,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,38.65431487809704,75.99947240178561
+
+114,"(4716924.000959912, 2253334.0808239323)",0402-1,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,221.2821571109515,717.3351908315093
+
+115,"(4717041.000697017, 2253614.1651996765)",0402-9,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,289.97680273497986,570.5899100888296
+
+116,"(4716630.25345017, 2249774.3446650063)",1018-1,Villa Nueva,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,116.56769019198393,538.0932656904248
+
+117,"(4718629.89855408, 2253257.8333284007)",0108-1,El Compromiso,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,76.9562335964876,193.9360142195823
+
+118,"(4718630.807555774, 2253462.030241624)",0108-6,El Compromiso,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,123.30926514685476,457.5832862676445
+
+119,"(4714542.50169161, 2253900.152446099)",0606-1,San Mart�n de Porres,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,112.28325152683904,392.7607936663563
+
+120,"(4714376.7730076965, 2253993.4494244936)",0606-2,San Mart�n de Porres,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,76.84994421805594,232.7711579303944
+
+121,"(4715239.637503091, 2255644.6148989415)",0601-1,Santander,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,214.29293069933803,1413.498866382326
+
+122,"(4715377.8311225185, 2255678.377078044)",0601-2,Santander,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,153.0297978845904,787.3465148709577
+
+123,"(4715458.248239089, 2255745.5424600546)",0601-3,Santander,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,182.33740577563572,929.0654328813848
+
+124,"(4715364.653744409, 2256031.8687155345)",0601-4,Santander,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,995.6376539037198,3569.446928470811
+
+125,"(4718732.109008459, 2253697.3546649907)",0107-4,San Pablo,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,61.194577626291334,121.91127520801504
+
+126,"(4717199.95770893, 2252486.1367265773)",0411-1,Las Esmeraldas,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,91.37097688849465,199.3673224639651
+
+127,"(4717680.836426435, 2249751.844396351)",0803-2,San Miguel,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,46.50969629160349,84.00256947234924
+
+128,"(4718116.081840752, 2254888.9969664942)",0103-1,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,33.820741463542575,44.60254397443353
+
+129,"(4718698.2777069295, 2255221.2663836186)",0103-5,Popular,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,46.51969378843333,133.2222112666039
+
+130,"(4718303.992219974, 2255211.248652773)",0103-16,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,91.80822270737637,391.85140734815724
+
+131,"(4714287.029068802, 2255874.766694918)",0611-2,Progreso No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,360.015217725464,884.0534409051469
+
+132,"(4711553.767432346, 2249044.1191655146)",1210-1,Barrio Crist�bal,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,199.20569122328635,1758.9068587665145
+
+133,"(4715650.578711994, 2254335.3588137403)",0509-1,Girardot,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,181.38459642179168,942.594809040454
+
+134,"(4716310.791227013, 2253507.3008382814)",0403-1,Palermo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1776.604488019474,19060.67920315804
+
+135,"(4716449.4878104925, 2248955.2099245973)",1019-1,La Candelaria,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,230.15049730255808,853.0543224012669
+
+136,"(4716215.004127632, 2249196.5994743025)",1019-2,La Candelaria,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,212.17116682733945,1247.2971725480088
+
+137,"(4716725.576880502, 2254236.2012662184)",0210-7,H�ctor Abad G�mez,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,133.4417324637026,439.8155773878111
+
+138,"(4716651.839139091, 2254326.410308809)",0507-1,H�ctor Abad G�mez,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,73.46040362877827,186.7793788374902
+
+139,"(4716710.746184898, 2248660.8828659607)",1015-1,Bombon� No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1161.6026670934007,5287.938719673362
+
+140,"(4717671.518172327, 2251707.9758764044)",0303-1,Campo Vald�s No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1594.9810339607768,7918.848612813909
+
+141,"(4711629.634806259, 2246786.5360705582)",1613-2,Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,111.8775489747307,651.1781867927359
+
+142,"(4712863.156918901, 2254118.1089768596)",0712-3,Aures No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,674.2280724709868,2187.24890410682
+
+143,"(4717686.128037883, 2249751.0242480836)",0804-2,La Ladera,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,50.69707747063948,112.3346345440629
+
+144,"(4717623.225684723, 2249004.054955344)",0809-4,Sucre,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,101.18380578447884,406.21295281654636
+
+145,"(4717942.483726361, 2252832.146019045)",0301-1,La Salle,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,46.66997898307177,90.78949643036853
+
+146,"(4718627.1357491985, 2253253.219180974)",0301-3,La Salle,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,78.7467522318818,139.4265537134958
+
+147,"(4717197.421846895, 2252492.483205175)",0412-1,La Pi�uela,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,80.17886461749099,238.21847739987905
+
+148,"(4712530.839635294, 2254445.370133385)",6011-2,El Picacho,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,305.69681628142,1071.8772565001375
+
+149,"(4712689.634222019, 2254243.430367624)",6011-4,El Picacho,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,124.51907300404643,47.359191505036954
+
+150,"(4718126.20492394, 2254887.807503203)",0103-15,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,40.49663275679956,91.66105732758729
+
+151,"(4716881.117551362, 2253305.636176953)",0402-7,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,34.26539783030514,69.966540442616
+
+152,"(4717611.356651839, 2254690.203442844)",0206-2,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,87.84817261209898,224.90419616879066
+
+153,"(4719418.023947144, 2254182.4475751948)",9003-24,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,229.83957933746015,729.0099814268834
+
+154,"(4712527.227227861, 2254434.247864181)",6012-3,Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,165.62724295900796,535.465442118847
+
+155,"(4712646.660849681, 2254282.013379709)",6012-5,Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,592.64932168713,3811.967111077076
+
+156,"(4719215.055446884, 2248124.1358835436)",0814-17,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,28.351401220241133,15.90409919814027
+
+157,"(4719135.694137225, 2248129.9976372644)",0813-34,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,50.76230676079007,40.41654812106683
+
+158,"(4719232.613821737, 2247733.7845312487)",0813-31,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,58.602092090600514,28.310450120041278
+
+159,"(4719171.153964822, 2247677.4723122455)",0813-32,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,22.09165065780588,22.073566691316177
+
+160,"(4719313.122955312, 2247798.446544729)",0813-33,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,160.7580263937157,94.15786450338312
+
+161,"(4719247.616421743, 2248109.2458756547)",0814-16,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,68.37664332221415,121.26826033041034
+
+162,"(4720589.048218665, 2247657.367591463)",0817-9,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,31.973336223485088,13.721165528975783
+
+163,"(4720525.437030771, 2247531.1154014966)",0817-8,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,86.75272096824737,114.03175018193213
+
+164,"(4720533.614592416, 2247570.8114232263)",0817-7,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,39.50976068265522,40.862665564426315
+
+165,"(4720583.762686189, 2247713.4353565513)",9002-10,Media Luna,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por inundaciones,Inundaciones,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,90.43890538484001,501.7445392172011
+

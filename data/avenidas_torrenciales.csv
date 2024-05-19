@@ -1,0 +1,458 @@
+OBJECTID,Shape,codigo,nombre,riesgo,descripcion,tipo_amenaza,categoria_proteccion,subcategoria_proteccion,Shape_Length,Shape_Area
+
+1,"(4715058.686818214, 2245036.155446599)",1421-1,Patio Bonito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2606.327940907418,34520.34373569805
+
+2,"(4711155.5520942295, 2245900.9638461308)",1611-1,La Loma de Los Bernal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,156.60681155584822,1190.052202802588
+
+3,"(4711068.204277469, 2245903.36136315)",1611-2,La Loma de Los Bernal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,130.3437241396936,255.1013819091577
+
+4,"(4720322.379438738, 2247091.8874599654)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1617.6278827520862,13160.466526599022
+
+5,"(4714040.338611756, 2250718.2715630326)",Inst_7-1,Ecoparque Cerro El Volador,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,732.5418725094413,10517.457611844628
+
+6,"(4718860.9815542465, 2251260.5571199767)",0309-3,Versalles No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,900.8576200511894,3382.9038528889223
+
+7,"(4699533.517391422, 2261655.130556566)",5003-4,Urquit�,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,26.375654824552846,34.76411586583626
+
+8,"(4700974.940702564, 2261945.6568943476)",5003-1,Urquit�,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,48.97255986384574,100.62386246845983
+
+9,"(4701850.923754703, 2262303.880555479)",5003-2,Urquit�,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,176.9717338026566,1746.15557402164
+
+10,"(4700970.271126839, 2261933.683217469)",5008-1,Potrera Miserenga,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,76.31421765613987,353.83223032978117
+
+11,"(4711439.354943741, 2252565.827499866)",0719-1,Fuente Clara,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,114.43854612920106,560.0270078101591
+
+12,"(4711840.5559361335, 2252210.2765483893)",0719-2,Fuente Clara,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1215.0313402272018,18659.90583563778
+
+13,"(4719541.699817146, 2247258.393581577)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,2235.615357721737,24759.841703545193
+
+14,"(4710711.466170279, 2248714.6308270833)",1212-2,Santa Teresita,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,299.7716744425355,935.3964756311775
+
+15,"(4716778.990100241, 2244623.4043327267)",1406-1,Las Lomas No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,15.458866321915925,13.614920727753312
+
+16,"(4716477.543867782, 2244579.48541907)",1406-2,Las Lomas No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,42.4873354540738,28.47786466432413
+
+17,"(4710149.691342159, 2248774.7997578643)",1312-2,Betania,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1925.649322140171,15285.491848858044
+
+18,"(4716097.34822737, 2244602.1154159713)",1417-1,La Florida,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2824.5916940162683,29635.266452460146
+
+19,"(4710403.269515734, 2251900.699681393)",0722-3,Olaya Herrera,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,508.4599182685658,5301.897226349114
+
+20,"(4710709.933062312, 2251961.1880021594)",0722-4,Olaya Herrera,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,340.32170811801916,961.0490113617961
+
+21,"(4715221.836671826, 2244813.94181075)",1420-1,Astorga,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2063.6097476000805,16671.74451766791
+
+22,"(4708082.753112588, 2242891.198634471)",SN01-2,El Coraz�n,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,181.58213430887267,953.8085863619069
+
+23,"(4710428.878715058, 2248685.2164418628)",1311-1,Belencito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,983.1252085235672,10634.334083414618
+
+24,"(4711308.873518851, 2252792.3315342697)",0718-1,Cucaracho,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,312.2239802631146,1495.0646769381856
+
+25,"(4712154.956112747, 2252895.019725611)",0718-2,Cucaracho,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,381.2614109647014,3160.072562261038
+
+26,"(4710697.122864914, 2248729.694938811)",1209-2,Santa M�nica,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,334.7689476868855,3962.2917953097667
+
+27,"(4709553.248761987, 2247658.122106614)",7004-1,San Pablo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,801.4137852585952,9451.96749358415
+
+28,"(4709318.9057366345, 2248988.741797881)",1313-2,El Coraz�n,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2195.9909789411304,16117.50406441505
+
+29,"(4716066.808258412, 2252563.6658764146)",0405-2,Moravia,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,662.2434580332575,2940.6269380679714
+
+30,"(4715373.766174789, 2250310.8600475527)",1006-1,San Benito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,692.7297850887686,2643.5595827851043
+
+31,"(4712671.429458259, 2251946.1652672472)",0717-1,Robledo,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2408.4150210547655,23683.460914469117
+
+32,"(4712552.6523758825, 2252239.145588911)",0717-2,Robledo,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,958.4871224376811,9637.943311506206
+
+33,"(4717204.4228703305, 2248979.238672158)",1016-1,Boston,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2006.1416517144446,14047.669565393891
+
+34,"(4714439.469721092, 2250430.613220783)",0725-1,Nueva Villa de La Iguan�,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1561.0974144164738,29326.21224322279
+
+35,"(4709442.0507402755, 2247633.0633972385)",7004-2,San Pablo,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3717.5315245915967,39211.58866552175
+
+36,"(4707918.558996378, 2247279.1459144005)",7002-1,Aguas Fr�as,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1135.9390120681237,18623.131374968896
+
+37,"(4708409.954307808, 2247388.8968771873)",7002-5,Aguas Fr�as,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,75.37000729327518,236.58346628078195
+
+38,"(4715384.3613510635, 2250309.8348996392)",1004-1,El Chagualo,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,686.3901551411225,3348.5456407198094
+
+39,"(4712631.694085745, 2251927.6030179006)",1301-2,El Pesebre,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2536.5876070592367,31029.104626656117
+
+40,"(4718847.604685182, 2251266.684395602)",0305-4,El Raizal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,903.5589763264335,2858.1711245859096
+
+41,"(4715900.954045635, 2244630.3064505225)",1418-1,El Poblado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2004.5213013902064,17783.86784580289
+
+42,"(4708105.680182743, 2242055.6851293663)",8007-1,La Verde,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1689.0014245626699,28910.147662087067
+
+43,"(4705614.721354664, 2243264.888741332)",8007-4,La Verde,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,40.427689606442996,50.21652402417579
+
+44,"(4706516.826790133, 2242757.4269849546)",8007-6,La Verde,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,283.4209013555331,3172.568557128444
+
+45,"(4705646.847305308, 2243280.494513891)",8007-9,La Verde,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,303.1852637146895,4771.899587042233
+
+46,"(4705530.177200001, 2243743.900933334)",8007-10,La Verde,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,18.414865275922192,12.39649845064527
+
+47,"(4706719.397048941, 2242762.6192585486)",8007-7,La Verde,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,570.8095369359494,7346.249363995469
+
+48,"(4707013.0592712015, 2242683.4985023583)",8007-11,La Verde,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2947.791387718081,57723.83019320076
+
+49,"(4703999.891887376, 2242896.746708596)",8003-1,Monta�ita,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,627.0507571869832,6590.839663390453
+
+50,"(4705456.045106329, 2242491.807769667)",AUC2-4,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,230.31027633201683,1105.564031906083
+
+51,"(4710411.490136318, 2247900.1619819785)",AE4-1,�rea de Expansi�n El Noral,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,503.81450779268204,3498.5259581067917
+
+52,"(4710205.401821635, 2247865.781072231)",1616-5,Las Violetas,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1446.5985009005226,12488.284999485499
+
+53,"(4710485.37721732, 2246300.451843691)",7005-1,Altavista Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,11.707505779373317,1.9393626407981253
+
+54,"(4705464.3753412245, 2241565.013800687)",AUC2-7,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,124.50326271276583,587.8842497706896
+
+55,"(4707883.697498855, 2241933.468759937)",AUC2-8,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,7123.144506493983,161664.63215695217
+
+56,"(4705549.311451973, 2241579.02446774)",8001-1,La Florida,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,590.6790674168761,4406.867888752213
+
+57,"(4702065.28175278, 2260316.9460999453)",5004-1,Palmitas Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,515.6189566070115,11963.908494931979
+
+58,"(4703262.340506272, 2259700.177960104)",5004-2,Palmitas Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1494.5517179313997,23582.607833621558
+
+59,"(4702489.408699694, 2259078.916765673)",5004-3,Palmitas Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,53.66409984282504,35.89087196154178
+
+60,"(4706182.495482684, 2256056.641405919)",6006-2,Boquer�n,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,77.96410382163742,184.09251283780168
+
+61,"(4717675.423072189, 2248531.444833835)",0906-2,Barrio Caycedo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1101.8289369409615,5343.436893709601
+
+62,"(4710792.702126945, 2252039.818508683)",0720-5,Santa Margarita,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,460.55397325793206,2461.725594401907
+
+63,"(4710389.096265699, 2251927.8592395056)",0720-6,Santa Margarita,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,788.8587938389326,4580.568479033413
+
+64,"(4710335.751367872, 2246319.9286909816)",7005-2,Altavista Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,667.4415618422873,4346.982090833437
+
+65,"(4708787.955554873, 2246340.969395812)",7005-5,Altavista Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1897.5118104810877,17936.243761843976
+
+66,"(4705499.846356607, 2243782.9421783923)",8006-3,El Salado,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,245.80502136108262,2368.8880860452277
+
+67,"(4705364.540623504, 2244105.289295452)",8006-4,El Salado,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,220.9157895912679,2615.666213244504
+
+68,"(4705557.837976298, 2243279.630740897)",8006-1,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,343.30639122504016,1432.3756237988923
+
+69,"(4705595.708544865, 2243300.792822221)",8006-2,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,156.15263635236744,1232.209664522058
+
+70,"(4705470.630233333, 2243296.898433335)",8006-8,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,20.311389856005402,15.831386258380594
+
+71,"(4705578.3203649325, 2243374.505356453)",8006-9,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,84.42241047183909,111.27199935878623
+
+72,"(4708106.272299592, 2246161.153336615)",7001-2,Buga Patio Bonito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1989.747959747013,19987.59380067088
+
+73,"(4708487.332567583, 2246313.371106408)",7001-3,Buga Patio Bonito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,36.655191781097805,22.043932373789147
+
+74,"(4708601.674290924, 2246303.7989482447)",7001-4,Buga Patio Bonito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,239.30808022352514,1237.3803627272746
+
+75,"(4708582.912186198, 2246240.1050142962)",7001-5,Buga Patio Bonito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,771.9611914888972,10572.089072468048
+
+76,"(4711154.477000579, 2245860.245147335)",7006-1,La Esperanza,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,81.66889744900298,390.91265239424246
+
+77,"(4711034.573524631, 2245884.1500269747)",7006-2,La Esperanza,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,130.5548796677134,475.07964856991237
+
+78,"(4709785.176729278, 2246347.178707292)",7006-3,La Esperanza,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,978.1127459211225,14535.036335503726
+
+79,"(4719147.560924103, 2247383.809883512)",0813-25,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,310.261481477565,2787.678284343169
+
+80,"(4711831.120634493, 2253260.318980144)",0723-1,Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,120.38814113492407,894.4297944007815
+
+81,"(4718466.518406476, 2248188.015958681)",0812-5,La Libertad,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,385.1680059747646,2899.82325716779
+
+82,"(4719461.476873192, 2251303.025372544)",0311-7,La Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3261.0146394671174,21801.831558286634
+
+83,"(4713905.0916971825, 2250929.2837728453)",0703-1,San Germ�n,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,487.90044074144447,4554.824063672003
+
+84,"(4715182.3258057665, 2245216.97992513)",1419-1,Manila,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,572.2657565796073,7458.474506834835
+
+85,"(4706831.263476733, 2253905.5677090394)",6004-1,La Cuchilla,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,760.61437774777,7626.484466332815
+
+86,"(4707122.114530117, 2254566.988276784)",6017-2,El Llano,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2770.018826621791,30620.511185689847
+
+87,"(4719337.7600186495, 2251202.231342267)",0310-4,Versalles No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1484.0102478333301,9440.06682646212
+
+88,"(4711818.576363448, 2252197.144383961)",1302-1,Blanquizal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1093.6821645466578,9851.130218310273
+
+89,"(4717690.292839227, 2248548.192167056)",0809-6,Sucre,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1099.4902710995066,5284.549047563622
+
+90,"(4708056.456348312, 2252116.116317762)",6001-1,La Palma,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,249.3089197849117,1363.1178851557465
+
+91,"(4707361.038521586, 2252170.6892214855)",6001-3,La Palma,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2927.3773068529454,53774.90509455024
+
+92,"(4704012.7993785525, 2242854.7699345374)",8002-7,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,11.395371779137697,3.7526320639528548
+
+93,"(4705644.127615746, 2243252.886093947)",8002-8,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,96.21216395988735,67.22739246510503
+
+94,"(4705450.59550112, 2241554.010628207)",8002-9,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,55.370184143060605,126.31396530508677
+
+95,"(4703988.391689923, 2242776.1078479113)",8002-11,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,162.17740974206535,1482.9060124987325
+
+96,"(4704825.978531135, 2241876.0913353935)",8002-21,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,474.64506451207865,6580.673980896692
+
+97,"(4705542.963852678, 2242893.143913148)",8002-12,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1353.4023020431082,11452.337863347659
+
+98,"(4705704.547282044, 2242943.8720015963)",8002-19,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,37.332280944721575,47.934708277673124
+
+99,"(4705511.250101452, 2242590.5552507555)",8002-20,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,40.56479881717624,78.46175265637575
+
+100,"(4711432.258644377, 2253771.006896739)",AE1-3,�rea de Expansi�n Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,718.6309154220488,5591.020108729474
+
+101,"(4705927.338743934, 2241743.1223709504)",AE7-4,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1955.462063993867,18480.68683456225
+
+102,"(4705743.696250894, 2241674.9835648425)",AE7-8,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,35.355997448036774,44.00755617117866
+
+103,"(4706375.098733333, 2241842.063866669)",AE7-9,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,7.827546093875834,1.251548957559527
+
+104,"(4708043.055447065, 2252086.5136422175)",6014-4,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,77.7443662297733,58.978057117691016
+
+105,"(4708112.499259301, 2252152.5350174243)",6014-5,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,184.45157190722352,976.4003961819157
+
+106,"(4708215.546639112, 2252128.124722443)",6014-8,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,325.9616722150469,3532.091944616855
+
+107,"(4708476.74885184, 2252286.940028074)",6014-9,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,149.74039540226565,1334.5788350849978
+
+108,"(4709111.432297732, 2252228.270279409)",6014-10,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,794.7680897646958,10107.945880348232
+
+109,"(4710239.666913375, 2251900.045119626)",6014-11,La Loma,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,338.0333571120902,3280.2076520798278
+
+110,"(4709672.59562609, 2248906.130447663)",7003-2,El Coraz�n El Morro,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,870.1861255924737,6431.458586551833
+
+111,"(4708470.803464826, 2249340.3726841975)",7003-3,El Coraz�n El Morro,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2899.013889459771,32027.00942832014
+
+112,"(4711203.426432737, 2246130.7365713003)",1613-8,Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1196.2429202646513,12893.512337394739
+
+113,"(4699768.253782699, 2260639.1412334302)",5002-2,La Sucia,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,4432.40534083268,34597.92753899578
+
+114,"(4701617.088665126, 2259500.5302863857)",5007-2,La Aldea,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,780.7383178082138,10148.151772867255
+
+115,"(4701782.872129985, 2258434.0677509364)",5006-1,La Frisola,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,183.36545047328525,1144.16545699252
+
+116,"(4702654.943137728, 2257624.1809384623)",5006-2,La Frisola,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,648.1927143319379,8564.525564151983
+
+117,"(4704198.246316124, 2258213.9024455766)",5005-1,Volcana Guayabal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1837.733361474588,20955.634224010413
+
+118,"(4701779.660630705, 2258453.4175198697)",5005-2,Volcana Guayabal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,159.35875403283242,819.39821338247
+
+119,"(4702676.712819052, 2257647.167582944)",5005-3,Volcana Guayabal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,694.7891862137102,8385.506314309532
+
+120,"(4702547.974388409, 2257748.521096676)",5005-5,Volcana Guayabal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,190.78702919074573,1168.4545340558902
+
+121,"(4700101.060996251, 2256659.611330817)",5001-1,La Suiza,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,123.9487978200566,866.247287914754
+
+122,"(4707970.49484693, 2255110.4289905243)",6007-1,San Jos� de La Monta�a,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,705.864980738914,7752.701155278437
+
+123,"(4706646.652607551, 2254582.749999811)",6005-1,Naranjal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,115.59564474457031,544.3526160188163
+
+124,"(4706693.129641668, 2254481.6984252725)",6005-2,Naranjal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,340.6147664583665,3480.319014256609
+
+125,"(4710674.203226646, 2253514.762088316)",6013-9,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,150.53849192958728,1352.4113656783327
+
+126,"(4707500.918261624, 2252229.9421085445)",6002-1,El Patio,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,217.47216246604964,1646.9207991652606
+
+127,"(4707003.611110832, 2252091.3276508455)",6002-2,El Patio,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,321.6918098697105,2264.598567383271
+
+128,"(4706748.787855705, 2252105.5392480097)",6002-3,El Patio,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,262.5281463473373,1630.9357555019058
+
+129,"(4707409.467445339, 2252767.231205197)",6015-1,Las Playas,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3118.6182256834118,51762.09423366817
+
+130,"(4710453.961161719, 2246291.256490955)",AE5-1,�rea de Expansi�n Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,296.99620765681476,1950.463149846797
+
+131,"(4710556.25774365, 2246219.431655829)",AE5-3,�rea de Expansi�n Altavista,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,488.32535715694235,13177.998912299772
+
+132,"(4710932.878392464, 2246251.712442014)",AE5-5,�rea de Expansi�n Altavista,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,177.15723839521903,2090.190013473452
+
+133,"(4710910.599861882, 2246190.9333043117)",AE5-6,�rea de Expansi�n Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1714.3289952726998,18450.785395707095
+
+134,"(4708127.87335964, 2252179.9659535405)",AUC1-1,Cabecera Urbana Corregimiento San Crist�bal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,58.553416896159064,105.93002599365155
+
+135,"(4707044.737447053, 2253277.0694163037)",6016-6,Traves�as,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,51.17407053052745,88.64364786993859
+
+136,"(4708514.8236423815, 2252358.741469243)",AUC1-3,Cabecera Urbana Corregimiento San Crist�bal,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3692.9898565087738,44557.05979502357
+
+137,"(4719709.570637672, 2251528.951129582)",9003-16,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,124.21996592615567,483.21973014284777
+
+138,"(4719965.4112569075, 2251047.5790220737)",9003-28,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1681.6803457753235,11016.003896616574
+
+139,"(4710701.807366667, 2253512.624133336)",6012-1,Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2.5598546770794504,0.1638034732724648
+
+140,"(4706637.477700283, 2253921.7254780573)",6003-1,El Uvito,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,842.021998047922,5805.4040301558225
+
+141,"(4707105.11251037, 2253864.586625857)",6016-1,Traves�as,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,577.8909978651458,8485.332312268734
+
+142,"(4708000.251120114, 2253039.0193621307)",6016-2,Traves�as,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2213.9178725425777,18865.589072624844
+
+143,"(4707287.2029361185, 2252975.287392331)",6016-3,Traves�as,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2066.2107383528464,41387.74092295716
+
+144,"(4707043.820261351, 2253363.028196829)",6016-5,Traves�as,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,288.93151511499184,1280.2452882479213
+
+145,"(4708078.986112279, 2252822.1795906816)",6013-2,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,379.8537892686139,2082.7022750588153
+
+146,"(4708042.980538003, 2253053.965859722)",6013-3,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,621.906719823988,4615.01192747075
+
+147,"(4707975.9037041245, 2253300.5191605845)",6013-4,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,301.86017223926626,2270.2481687475897
+
+148,"(4707943.5513, 2253372.9950333345)",6013-5,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,9.51063244527136,1.5909356462475226
+
+149,"(4707938.4284333335, 2253399.027233334)",6013-6,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,19.747778171530136,6.437509936642534
+
+150,"(4707941.033025847, 2253438.7238967177)",6013-7,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,64.60048867391815,70.46356496391029
+
+151,"(4709002.707477826, 2252637.129164949)",6013-8,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,58.04183541093949,172.91495864664313
+
+152,"(4718563.79321328, 2247974.203001266)",0813-39,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,805.9275815195901,3870.1031437958645
+
+153,"(4718916.333158623, 2247646.7284077983)",0905-3,Alejandro Echavarr�a,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1316.380804188084,11853.189764579914
+
+154,"(4718948.766590695, 2247584.0175852957)",0905-2,Alejandro Echavarr�a,Alto riesgo mitigable,Zona de alto riesgo mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,905.8690876848798,7683.515058725515
+
+155,"(4718855.043764608, 2247741.535949551)",0813-25,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,800.1467311513642,9285.412475037165
+
+156,"(4719005.6487020515, 2247591.849042099)",0813-4,Villatina,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,15.306456266354513,2.137606333083421
+
+157,"(4719095.239908959, 2247610.029154097)",0813-25,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,744.6928532091579,2164.728043573989
+
+158,"(4719198.063693395, 2247365.8739344333)",0813-26,Villatina,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,166.0672134131484,841.4413847642923
+
+159,"(4719419.687120074, 2247455.5805810736)",0815-12,Las Estancias,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,942.0505090367419,25274.382687649217
+
+160,"(4719321.947384726, 2247492.7700719144)",0813-26,Villatina,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,965.925361899641,20323.425671228928
+
+161,"(4719748.372763451, 2247224.668837128)",0815-11,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,2613.8938672797717,34985.94889098331
+
+162,"(4719229.222465819, 2247373.9482448134)",0813-25,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,9.702213917331125,1.8334098288227991
+
+163,"(4719615.001917767, 2247241.469613962)",0902-3,Barrios de Jes�s,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,515.2125043129274,14911.014036074812
+
+164,"(4719833.817647085, 2247101.5385245974)",0902-3,Barrios de Jes�s,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,598.4535773130361,11295.327239906483
+
+165,"(4719808.980208837, 2247138.10452895)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,4.991379377640771,0.18243119318737597
+
+166,"(4719755.900762953, 2247276.448667306)",0815-12,Las Estancias,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,1187.07733390935,15443.124602141008
+
+167,"(4720040.1294974135, 2247040.7236764603)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,356.71531100106773,6652.838688513569
+
+168,"(4719905.380088808, 2246773.9649299085)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,91.70297478758798,103.16829768903096
+
+169,"(4719926.101391796, 2246838.244787428)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,154.82977235076953,214.18456282286982
+
+170,"(4719955.010387706, 2246880.319485028)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,64.12101562896483,59.8087032461207
+
+171,"(4719967.69644579, 2246893.806425549)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,5.556343548136259,0.408577035229549
+
+172,"(4719974.336476352, 2246904.7422567555)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1.4740743593635939,0.05215205481327295
+
+173,"(4719975.670818582, 2246975.526570189)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,275.959734127523,273.6635771588628
+
+174,"(4719976.290995786, 2247050.234254766)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,43.14509118757384,24.444171216269687
+
+175,"(4720020.924534997, 2247063.6912416657)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,81.21661013371747,85.59312019293868
+
+176,"(4719974.959989957, 2247014.3282344327)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,83.90880978644928,147.84600300493966
+
+177,"(4720112.907890791, 2247038.3930230383)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,141.90349473530281,712.5435834330011
+
+178,"(4719916.301504538, 2246801.0329932054)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,89.20955096403,98.21312018531769
+
+179,"(4719910.802725371, 2246786.3524907273)",0917-8,Ocho de Marzo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,8.185126090737025,2.004876289662204
+
+180,"(4719915.394383701, 2246746.772627344)",0917-8,Ocho de Marzo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,124.64950562823323,177.50605346717518
+
+181,"(4719925.5274052415, 2246835.477516509)",0901-3,Juan Pablo II,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1.6312500408308517,0.05012224389861815
+
+182,"(4719926.742720021, 2246840.5045456747)",0901-3,Juan Pablo II,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,4.592989169982208,0.299796767082159
+
+183,"(4719943.186358055, 2246864.3428811957)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,73.67621842378075,59.18637297312923
+
+184,"(4719973.831790939, 2246901.4115700996)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,110.00500721580677,114.17362155774471
+
+185,"(4719982.913872912, 2246929.0166292298)",0901-3,Juan Pablo II,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,0.28140388284355644,0.0030274200797415513
+
+186,"(4719983.685980121, 2246932.366743283)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,11.074817361034109,1.6041820536103395
+
+187,"(4720242.152747881, 2246768.4264872298)",9001-10,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,71.36781189035096,79.60709278927129
+
+188,"(4720204.109558903, 2246837.7650342155)",0917-8,Ocho de Marzo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,354.2608039316737,484.005388391762
+
+189,"(4720488.6342120245, 2247082.6907447446)",0815-11,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,654.2166987972016,3004.304537507107
+
+190,"(4721727.805378919, 2247130.6592806107)",9002-8,Media Luna,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,355.0167436822823,5343.167268674642
+
+191,"(4721928.526443768, 2246629.685809507)",9002-8,Media Luna,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,245.76657628524399,2408.270156618259
+
+192,"(4720275.633603239, 2247026.2078116382)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1102.718911384889,5383.344650984529
+
+193,"(4720301.300304609, 2247072.3563910443)",0901-4,Juan Pablo II,Alto riesgo mitigable,Zona de alto riesgo mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,255.39997303160513,2497.518446680173
+
+194,"(4720371.069728837, 2247081.786517046)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,464.26918345303625,6852.198539873702
+
+195,"(4720130.106036125, 2247041.353780391)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,142.8458673782525,581.9468971956935
+
+196,"(4720142.648453411, 2247071.57059321)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,97.21874096554443,264.73005534548105
+
+197,"(4720177.89912359, 2247051.276122312)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,291.06700110180384,2893.980980278235
+
+198,"(4720129.115438865, 2246989.901296782)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,392.8832379550876,423.4553838928805
+
+199,"(4720101.355296236, 2247080.764286158)",0901-7,Juan Pablo II,Riesgo medio,Zona de riesgo medio por avenidas torrenciales,Avenidas Torrenciales,,,148.6644563044946,435.6000022085431
+
+200,"(4720108.786480024, 2247066.6523105353)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,143.8230077349705,767.303912040575
+
+201,"(4720147.099319031, 2247083.5825840705)",0901-7,Juan Pablo II,Riesgo medio,Zona de riesgo medio por avenidas torrenciales,Avenidas Torrenciales,,,102.70809987647168,476.52524854183133
+
+202,"(4719979.715768072, 2246983.3746374054)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,165.66935823917376,143.45301285970515
+
+203,"(4720007.15849676, 2247060.6129614594)",0901-7,Juan Pablo II,Riesgo medio,Zona de riesgo medio por avenidas torrenciales,Avenidas Torrenciales,,,329.8692370544247,1089.000106831157
+
+204,"(4720117.5678971475, 2247016.1887759557)",0901-6,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,Avenidas Torrenciales,,,24.722063611439744,27.060628519244574
+
+205,"(4719215.474705369, 2247368.1889191726)",0813-25,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,5.724628618431906,0.44353041891704587
+
+206,"(4720650.479945096, 2247044.8612384847)",9002-10,Media Luna,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,149.01875661758322,235.74035791430816
+
+207,"(4720656.72554692, 2247037.279678733)",9001-10,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,75.29043851666167,198.68350204163448
+
+208,"(4720610.669783455, 2247031.172354144)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,13.261018975009758,6.558381090267749
+
+209,"(4720625.232716352, 2247044.5871531954)",0815-11,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,115.71448960298441,460.88621719372753
+
+210,"(4720502.780188747, 2247029.4171092818)",0901-5,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,35.083138471333335,16.628526181609622
+
+211,"(4720507.785013604, 2247026.4693768476)",9001-10,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,9.231525714167358,0.8303466287063871
+
+212,"(4720559.774325303, 2247026.4986429242)",9001-10,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,213.4733241756674,19.799484815131915
+
+213,"(4719838.6195130395, 2247980.694822472)",0814-19,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,411.43127835941584,405.13739689986653
+
+214,"(4719747.003873942, 2247867.103391241)",0819-5,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,943.5453295039559,1647.883287311165
+
+215,"(4719722.834628458, 2247842.3397852187)",0813-47,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,488.4740670752038,271.98078433438155
+
+216,"(4719597.388097157, 2247779.5500327456)",0813-29,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,155.28427787350398,80.34490676418744
+
+217,"(4719926.174740273, 2248103.6813298017)",0814-18,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,220.65279353073035,186.51340351316114
+
+218,"(4719966.128056566, 2248154.608772435)",0816-5,Villa Turbay,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,124.92409491960595,114.12343298026828
+
+219,"(4719921.570095621, 2248095.398362597)",0819-6,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,179.19055127195838,100.02282354622669
+
+220,"(4719588.964788831, 2247784.6433572816)",0819-4,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,158.2138240325934,300.8104262399719
+
+221,"(4720009.138642163, 2248286.855795952)",9003-30,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,616.7699709995331,621.9870934167773
+
+222,"(4717729.121790857, 2248341.12023837)",0906-1,Barrio Caycedo,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,812.1409851812756,3919.8961286074077
+
+223,"(4718204.368828813, 2248338.0785532487)",0810-4,El Pinal,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1149.1797408410355,5973.974874364117
+
+224,"(4718337.658178209, 2248206.1230052137)",0905-4,Alejandro Echavarr�a,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,2347.579817467276,17325.222422132974
+
+225,"(4717797.118884562, 2248203.8321404797)",0905-1,Alejandro Echavarr�a,Con condiciones de riesgo,Zona con condiciones de riesgo por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,42.63210934386602,89.48821660605223
+
+226,"(4719221.313444074, 2247371.4127822267)",0902-3,Barrios de Jes�s,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,,,,22.073376245888152,6.796873447021246
+
+227,"(4719205.852166667, 2247359.4618)",0902-2,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por avenidas torrenciales,Avenidas Torrenciales,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,0.7590460303274056,0.0008113750528562814
+
+228,"(4719210.147313762, 2247363.167305747)",0902-3,Barrios de Jes�s,Riesgo bajo,Zona de riesgo bajo por avenidas torrenciales,,,,24.666696540253298,5.465049967077572
+

@@ -1,0 +1,1181 @@
+OBJECTID,Shape,codigo,nombre,riesgo,descripcion,tipo_amenaza,categoria_proteccion,subcategoria_proteccion,Shape_Length,Shape_Area
+
+1,"(4709420.645087081, 2249261.91923841)",1315-8,Nuevos Conquistadores,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,365.73540586070936,8232.772225145067
+
+2,"(4720381.714199969, 2246999.200823015)",9001-5,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,367.53649334239225,3560.328293888264
+
+3,"(4714034.759501746, 2255083.814094245)",0609-1,Picachito,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,564.6275736447334,11778.496870176616
+
+4,"(4720159.796674155, 2246864.921757026)",0917-3,Ocho de Marzo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,344.4714446972748,4816.521664293431
+
+5,"(4720376.287326659, 2246991.430249116)",9001-5,Las Palmas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,59.253867129046874,173.2645426407959
+
+6,"(4720223.697085004, 2246856.2811961393)",0917-3,Ocho de Marzo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,392.6469583172816,2409.279548576477
+
+7,"(4718989.2180691045, 2248784.908705305)",0811-6,Trece de Noviembre,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,694.3973866755377,11782.060610577526
+
+8,"(4719062.83049314, 2248973.8930241503)",0811-2,Trece de Noviembre,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,349.09379740857594,5019.397514178362
+
+9,"(4718999.700763165, 2249127.769037436)",0811-8,Trece de Noviembre,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,267.1973763202766,3404.4563288492386
+
+10,"(4718812.383982703, 2253742.5913621876)",0110-1,La Esperanza No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,899.7211801896199,11579.250564150278
+
+11,"(4719031.890109381, 2253993.6213476807)",0110-2,La Esperanza No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,356.4883024974154,4161.500664068491
+
+12,"(4715314.402489651, 2242064.0303884596)",1413-1,El Diamante No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,310.7320879327149,6816.14003217331
+
+13,"(4717572.225357766, 2254100.3911870075)",0207-6,Villa del Socorro,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,136.83430994219918,483.1743574622784
+
+14,"(4717947.3428749535, 2254345.550675795)",0207-7,Villa del Socorro,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,650.2474950345763,6296.118569100702
+
+15,"(4719930.901756966, 2247838.982636375)",0816-8,Villa Turbay,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,114.60753714576977,784.3581040345562
+
+16,"(4719893.215478258, 2247792.722301289)",0816-9,Villa Turbay,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,139.1619554881869,1204.1345440878285
+
+17,"(4719845.607875238, 2247836.2401033863)",0819-8,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,816.0620326075823,21607.6087827604
+
+18,"(4719184.121031687, 2249927.2665704796)",0806-4,Llanaditas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,403.6076786941284,3720.526150869282
+
+19,"(4719054.7369799875, 2250028.8696119166)",0806-6,Llanaditas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,439.46833927645247,8512.443639529654
+
+20,"(4709417.732312923, 2249174.138232199)",1315-1,Nuevos Conquistadores,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,360.0028618784009,4765.649267716642
+
+21,"(4709277.323660519, 2249296.4212089977)",1315-2,Nuevos Conquistadores,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,124.73502607537674,733.3611940634578
+
+22,"(4708989.9553533485, 2249279.523025183)",1315-3,Nuevos Conquistadores,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,551.0498998165691,9665.044255703013
+
+23,"(4709364.807053462, 2249289.522277335)",1315-4,Nuevos Conquistadores,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1191.8644584846127,24539.054994462706
+
+24,"(4709308.022312473, 2249612.1616795883)",1315-5,Nuevos Conquistadores,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,449.7273569852572,7545.918577977544
+
+25,"(4709439.697058156, 2249569.0961948573)",1315-6,Nuevos Conquistadores,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,544.2908976816609,7054.392042519822
+
+26,"(4709592.6885137325, 2249670.503781545)",1315-7,Nuevos Conquistadores,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,234.45722156491917,2312.1256581648167
+
+27,"(4718038.07941877, 2252790.168530697)",0302-4,Las Granjas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,18.3517043345121,3.000790725886039
+
+28,"(4719942.646441033, 2247831.350270338)",0816-7,Villa Turbay,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,45.23964512095372,104.47520388713191
+
+29,"(4719145.1443440225, 2247989.837072335)",0813-36,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,242.16074469572453,2125.226328119783
+
+30,"(4719568.573188608, 2247837.095372558)",0813-10,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,127.98822772025737,440.8780375021486
+
+31,"(4712403.323411492, 2244404.3345255856)",1608-1,La Mota,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,171.6679907909894,1190.904122290296
+
+32,"(4719287.484487547, 2249294.1132776537)",0806-15,Llanaditas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,800.9175122390756,24189.95088148221
+
+33,"(4719298.054668014, 2254794.8947515595)",0102-3,Santo Domingo Savio No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,670.5817165520837,14206.687656736616
+
+34,"(4718983.902937074, 2254980.046872081)",0102-4,Santo Domingo Savio No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1432.023636080602,31663.598773893293
+
+35,"(4719073.407268062, 2254323.4878224046)",0102-5,Santo Domingo Savio No.2,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,62.67670387749059,23.37378205154666
+
+36,"(4719196.821144405, 2254856.571090819)",0102-6,Santo Domingo Savio No.2,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,364.2875603512439,8101.099995876783
+
+37,"(4718549.729068702, 2252228.2317884513)",0302-1,Las Granjas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1490.101189256298,32826.9271705507
+
+38,"(4717956.535105065, 2249429.9789620764)",0808-2,Enciso,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,123.99139304651362,866.3318007765391
+
+39,"(4719294.428771842, 2247841.9034864493)",0813-37,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,558.0440982651459,6695.703259296281
+
+40,"(4714769.345230667, 2253663.705960453)",0605-1,La Esperanza,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,158.3374465349401,1263.4663199450185
+
+41,"(4719485.537975309, 2247970.0968427826)",9003-48,Piedras Blancas - Matasano,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,40.287170618901094,40.06512604901726
+
+42,"(4719417.854486673, 2247714.875310636)",0813-46,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,6.650266761882926,0.40109102485363435
+
+43,"(4719991.291398724, 2247364.5452203625)",0815-31,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,346.2461309695094,3965.8765178842245
+
+44,"(4719389.291471802, 2247686.8088544914)",0813-41,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,194.2306806737178,315.9711030131952
+
+45,"(4719407.906916095, 2247709.8279362917)",0813-46,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,22.180296296774735,10.903852044211432
+
+46,"(4719435.687619158, 2247731.7052456043)",0813-46,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,27.242347458449757,15.150361280583653
+
+47,"(4719420.791568031, 2247716.602924878)",0814-27,San Antonio,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,6.700859416585697,1.1205304851945064
+
+48,"(4719558.11610006, 2247561.9444899224)",0815-21,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,62.72833113900121,252.5075931565168
+
+49,"(4720301.268857916, 2247181.2128748433)",0815-10,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,872.9796273135653,14132.126339385468
+
+50,"(4719901.004325435, 2247520.3143866644)",0815-8,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,295.08430492137836,4313.619906940604
+
+51,"(4719836.2015951965, 2247236.3243133123)",0815-20,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,3.6351242462026634,0.265489357125821
+
+52,"(4718851.78476876, 2250654.4019551687)",0309-1,Versalles No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,835.9041787418241,8548.709461446728
+
+53,"(4720548.151112783, 2246922.2160155987)",9001-5,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,367.5749568234115,6211.673545131496
+
+54,"(4718869.121334169, 2251135.713673808)",0309-2,Versalles No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1056.734961876067,23504.197726723272
+
+55,"(4709708.021061439, 2249036.996503346)",1313-1,El Coraz�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,92.64440496855345,75.82446658191618
+
+56,"(4719966.653574026, 2247704.6118700653)",0819-11,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,145.90556935141737,497.48557855285503
+
+57,"(4719920.537415346, 2247266.339498545)",0815-20,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,534.027561616238,3953.608902116398
+
+58,"(4714220.191565511, 2255256.334770735)",0610-1,Mirador del Doce,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,875.6269044219807,10877.125962294509
+
+59,"(4714081.1024987055, 2255453.1058624415)",0612-2,El Triunfo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,400.9942571449362,6425.06687804139
+
+60,"(4720743.203665834, 2246894.440623714)",9001-5,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,946.2410946076553,21193.510724908425
+
+61,"(4702012.534005655, 2262045.927036074)",5003-5,Urquit�,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,2577.5409460610517,318097.12560778303
+
+62,"(4701589.559252426, 2262229.7362189093)",5003-3,Urquit�,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,318.52229268700967,7337.720123767896
+
+63,"(4720447.954201742, 2246887.0320082023)",9001-5,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,186.84342253344596,1691.0497079563663
+
+64,"(4720019.524196982, 2247819.12616243)",0816-3,Villa Turbay,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1279.75987298838,15778.656780711646
+
+65,"(4720419.116447927, 2246857.5447206013)",9001-5,Las Palmas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,40.24443928338204,105.17342706035666
+
+66,"(4720404.91245083, 2246848.8842911404)",9001-5,Las Palmas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,33.33139513250902,69.8417403965677
+
+67,"(4719165.8219156815, 2254588.874412998)",0102-2,Santo Domingo Savio No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,657.4558802116728,10554.955380805564
+
+68,"(4718450.94641094, 2252818.9925131644)",0302-3,Las Granjas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,201.23740880271185,1465.504109990301
+
+69,"(4720411.4310231395, 2246852.9089959604)",9001-5,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,36.54758280553227,90.30834976430985
+
+70,"(4720381.934030946, 2246814.324114265)",9001-5,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,44.24495117752322,137.58409225396414
+
+71,"(4720456.590868309, 2247025.765430457)",9001-5,Las Palmas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,184.35694362101015,1332.0324033072216
+
+72,"(4720483.752891112, 2246964.608898023)",9001-5,Las Palmas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,116.81051336740664,420.59686813006203
+
+73,"(4720480.931453716, 2246913.3630434903)",9001-5,Las Palmas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,86.49186371113527,436.2543263453162
+
+74,"(4720370.275360328, 2246968.5745861433)",9001-5,Las Palmas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1.8215925491428977,0.004116180272482034
+
+75,"(4720370.043357114, 2246971.2154788487)",9001-5,Las Palmas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2.802083171598966,0.011773400303831696
+
+76,"(4710852.871751889, 2251845.8527653464)",0722-2,Olaya Herrera,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3142.4139778036606,147923.9050103914
+
+77,"(4719186.22862735, 2247991.2941586166)",0814-20,San Antonio,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,344.100889176467,5461.281732025435
+
+78,"(4714574.0167762395, 2253844.773785309)",0607-8,Kennedy,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,107.1629283582818,827.0327984151043
+
+79,"(4720394.757594943, 2247647.997280026)",0817-10,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,737.2835408695214,21780.41082195364
+
+80,"(4718942.08662177, 2252437.853577904)",0313-1,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1099.155843648293,24202.611912994435
+
+81,"(4719069.67478994, 2252785.632568536)",0313-2,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,355.11962214870715,6750.1304724555575
+
+82,"(4719196.693624053, 2252848.203566149)",0313-3,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,557.9206542503345,13154.538628123488
+
+83,"(4718913.77220514, 2252855.385401053)",0313-4,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,810.1896990427651,23036.873170773135
+
+84,"(4719421.809734637, 2253109.7809153227)",0313-5,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,378.8558226628344,4890.425495828077
+
+85,"(4718908.256121333, 2253135.7578827664)",0313-6,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,204.6964695034528,1838.1252315148613
+
+86,"(4719315.834788911, 2253012.661005681)",0313-7,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,892.8410836403057,19189.07775783177
+
+87,"(4719121.252984069, 2253201.4306331286)",0313-8,Mar�a Cano-Carambolas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,868.5315105680081,11655.23368134986
+
+88,"(4719072.158216697, 2249504.378201932)",0806-10,Llanaditas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,910.5780817458212,14599.797314632631
+
+89,"(4717088.914713897, 2253633.465546661)",0211-1,La Rosa,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,31.05068076343209,5.4455629278548185
+
+90,"(4717812.845640186, 2244003.5380986147)",1409-1,El Tesoro,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,375.4004808797074,3752.068408255186
+
+91,"(4720509.322733334, 2247026.619433334)",0901-2,Juan Pablo II,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1.2409365019969825,0.0540522347329402
+
+92,"(4718936.6482684, 2253311.205861831)",0109-1,Aldea Pablo VI,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,694.4260720757335,8356.374181029549
+
+93,"(4718782.830730174, 2253475.5520687043)",0109-2,Aldea Pablo VI,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,177.9221421847281,908.7600098964443
+
+94,"(4718930.974687708, 2253613.3013396715)",0109-3,Aldea Pablo VI,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,322.75758772101415,2469.8018436945017
+
+95,"(4718779.659760799, 2253666.5481685055)",0109-4,Aldea Pablo VI,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,202.15229235032183,2184.5385675815032
+
+96,"(4719473.549227675, 2247776.0896563265)",0814-24,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,459.63945654228166,2610.9703060784404
+
+97,"(4720213.287801373, 2247254.1947309575)",0815-17,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,201.5916694228191,2571.626185657422
+
+98,"(4716947.877270328, 2254000.5880827913)",0210-6,Santa Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,384.37332587361493,10397.624830011524
+
+99,"(4720155.647732796, 2247963.2184772515)",0816-6,Villa Turbay,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,1892.410382797502,151725.81435293515
+
+100,"(4709870.999802444, 2248823.0403285413)",1312-1,Betania,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,258.00243771829497,1409.4904450692873
+
+101,"(4718826.782370774, 2249529.632357828)",0807-10,Los Mangos,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,347.25100005510075,3370.8298451277647
+
+102,"(4714117.85144647, 2253495.00581554)",0607-6,Kennedy,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,175.72258233690664,987.9636439498786
+
+103,"(4714005.946255467, 2253605.4459727095)",0607-7,Kennedy,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,246.21161457357607,3442.8241688988637
+
+104,"(4711481.8894949695, 2252013.743214171)",0722-1,Olaya Herrera,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,243.97199045834725,3269.3913905827176
+
+105,"(4718971.927456124, 2249303.1961442623)",0806-16,Llanaditas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,784.9724830853319,20298.97339227813
+
+106,"(4718474.94023363, 2248896.6699958006)",0810-6,El Pinal,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,558.9432049513393,9952.946995199523
+
+107,"(4718515.47354529, 2248943.7346395007)",0810-4,El Pinal,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,183.76484953457333,1727.948432970328
+
+108,"(4718607.119652901, 2249145.4747238206)",0807-6,Los Mangos,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,449.0538086184373,3711.159221558173
+
+109,"(4718696.360242985, 2249068.957225632)",0810-5,El Pinal,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,387.7979083425017,1417.084560976374
+
+110,"(4718673.989318501, 2249062.8730447073)",0810-4,El Pinal,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,470.7416891670117,5971.649599656937
+
+111,"(4719715.463768449, 2247548.838756045)",0819-16,Villa Lilliam,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,662.0226457876315,10197.554209846066
+
+112,"(4719772.3631283045, 2247577.3370454116)",0819-15,Villa Lilliam,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,1277.5661908094846,11683.804282049114
+
+113,"(4720626.20653822, 2247656.5009342576)",9002-15,Media Luna,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,97.66960565083473,349.8493668232623
+
+114,"(4720347.899515561, 2247219.2429288863)",0815-7,Media Luna,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,299.4667436894432,3924.433681596669
+
+115,"(4720191.152564167, 2248225.4855197766)",9002-11,Media Luna,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,1691.7861740354817,65025.461875304914
+
+116,"(4719094.900177089, 2249163.9222764364)",0806-17,Llanaditas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,19.02578142357144,3.179359378176508
+
+117,"(4719067.742533906, 2249154.5990614146)",0811-8,Trece de Noviembre,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,190.409901127056,1341.0766766216054
+
+118,"(4719082.042498839, 2249169.121027566)",0806-14,Llanaditas,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,18.678962898071585,0.25707956964396517
+
+119,"(4718913.481393868, 2249498.630433376)",0806-16,Llanaditas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,291.52573505310716,4199.045632482995
+
+120,"(4720353.474275425, 2246884.588969143)",0917-4,Ocho de Marzo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,566.1879801729576,6041.565049039737
+
+121,"(4718860.907331492, 2249318.5110746906)",0807-9,Los Mangos,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,1342.0156469422611,50670.469057829476
+
+122,"(4717459.745532962, 2253403.9909363375)",0401-1,Berl�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,294.3529742456483,4850.828208654846
+
+123,"(4717592.435346456, 2253354.110530185)",0401-2,Berl�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,257.83147571676176,3366.065097132814
+
+124,"(4719436.324603585, 2252324.9474319895)",0312-1,Oriente,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,300.783852325837,4303.4494027407845
+
+125,"(4718964.77532827, 2252060.779957447)",0312-2,Oriente,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,6146.571909178997,184832.80419273433
+
+126,"(4718784.794638035, 2251765.868853313)",0312-3,Oriente,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,18.304436386102076,1.9646779776154137
+
+127,"(4718650.124907333, 2251946.0567253977)",0312-4,Oriente,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,191.96606653015252,1930.3467496277333
+
+128,"(4719433.033756325, 2252452.1709596557)",9003-26,Oriente,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,4.940247929516051,0.720966255738587
+
+129,"(4718133.807802486, 2255256.9906576783)",0201-4,La Isla,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,222.16688676660036,2848.716401117471
+
+130,"(4719296.625834698, 2248166.3688658928)",0814-8,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,681.45700655631,16660.713360444086
+
+131,"(4718486.330227794, 2255334.5378110125)",0201-5,La Isla,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,856.0703227741967,11624.012198711041
+
+132,"(4718001.938080027, 2255118.0653062183)",0201-6,La Isla,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,304.9945371577716,2034.3043497575477
+
+133,"(4717851.055282806, 2253653.0658176644)",0105-2,Mosc� No.2,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,299.8488015362183,4443.498643530258
+
+134,"(4717951.772175673, 2253732.837156286)",0105-3,Mosc� No.2,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,384.50877706326787,6364.862050695269
+
+135,"(4718241.093701066, 2253771.0592643023)",0105-4,Mosc� No.2,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,291.2440893546791,4528.300136578639
+
+136,"(4718802.68715047, 2254941.142485978)",0101-3,Santo Domingo Savio No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,283.46350608141597,2844.4102033663294
+
+137,"(4718657.761601793, 2254561.283745644)",0101-4,Santo Domingo Savio No.1,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,4460.395436229156,192734.34498874968
+
+138,"(4719120.188794173, 2254111.7364795287)",0111-1,La Avanzada,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2120.6814218063887,59505.92217823931
+
+139,"(4719263.83976842, 2254438.8723020307)",0111-2,La Avanzada,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,420.9692539728236,10095.510889292213
+
+140,"(4719062.313343145, 2254284.9083678834)",0111-3,La Avanzada,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,313.13450416429106,5245.09571844385
+
+141,"(4719593.493056604, 2247804.6211964693)",0813-2,Villatina,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,271.15504947208933,3002.591090055148
+
+142,"(4710237.457245886, 2249201.4676030697)",1310-5,Veinte de Julio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,283.7685315352041,4992.195871954603
+
+143,"(4719881.9729346605, 2248003.7815390527)",0819-7,Villa Lilliam,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,556.3970940979314,8742.739005717745
+
+144,"(4720125.484093267, 2246951.9927206254)",0901-10,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,126.67689600658386,1016.5872368103359
+
+145,"(4719501.711139737, 2247854.5455321358)",0814-14,San Antonio,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,127.35048455026254,766.58818949683
+
+146,"(4719273.413474095, 2247799.2832329697)",0813-38,Villatina,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,102.0172594253365,281.88674656086914
+
+147,"(4719383.73592654, 2247685.1367369206)",0814-27,San Antonio,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,136.2192493517888,376.5493220334669
+
+148,"(4719395.022404381, 2247701.2585112774)",0814-26,San Antonio,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,72.91844957582502,135.68087391706516
+
+149,"(4719395.661816559, 2247723.394119346)",0814-25,San Antonio,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,72.6836634496701,209.00217308358478
+
+150,"(4717660.859448302, 2254731.4509303207)",0205-1,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2056.6335518795404,35119.67157964874
+
+151,"(4717681.27290936, 2254753.4672654453)",0205-9,La Francia,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,175.29084700481891,1647.1244331804096
+
+152,"(4717899.931048736, 2254549.0851432635)",0205-11,La Francia,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,267.029362507374,3779.782962535438
+
+153,"(4719935.539269231, 2247755.839333106)",0819-2,Villa Lilliam,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,494.692397448252,5451.570420919807
+
+154,"(4718700.3818106735, 2249653.392749278)",0807-5,Los Mangos,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,613.6943224996814,14541.258030119323
+
+155,"(4718521.004708123, 2249674.0575776957)",0807-8,Los Mangos,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,101.99601381300654,692.8504137871631
+
+156,"(4718569.208420633, 2249681.7143023573)",0807-7,Los Mangos,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,467.2866200698599,5378.70020474069
+
+157,"(4718368.440682281, 2249601.8789143544)",0807-7,Los Mangos,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,195.01192131199605,1145.8017746855778
+
+158,"(4705662.732877913, 2242061.4661852266)",SN02-1,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,469.1413506596658,5310.164990500751
+
+159,"(4705630.5934453895, 2242209.4145832853)",SN02-2,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,279.41721041126124,1524.6130678046466
+
+160,"(4705570.64325084, 2242284.621474194)",SN02-3,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,141.71887476997335,771.6362511878754
+
+161,"(4705558.016060055, 2242306.990736592)",SN02-4,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,20.711023033651617,18.554743480504577
+
+162,"(4705534.020551907, 2242326.2139652665)",SN02-5,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,86.17712654389177,428.49839415808384
+
+163,"(4709852.648057053, 2248812.8782249955)",SN02-7,El Coraz�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,68.42743503435705,183.75744669491647
+
+164,"(4709850.609084976, 2248839.9878037074)",SN02-8,Betania,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,41.27246154760022,97.06006574795599
+
+165,"(4714150.475872426, 2255148.1842122744)",SN02-9,El Picacho,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,266.78741057970905,2518.410118418043
+
+166,"(4719092.315672874, 2253268.525384543)",0112-1,Carpinelo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,115.9494241757249,354.70831725719154
+
+167,"(4719495.755832989, 2253300.416464001)",0112-2,Carpinelo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,280.96810785985576,2844.032677253571
+
+168,"(4719496.715435494, 2253478.2740969113)",0112-3,Carpinelo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,230.48515534519677,1210.8822575742972
+
+169,"(4718013.987195745, 2253709.0528823035)",0105-1,Mosc� No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,4726.976148040333,79830.00254264093
+
+170,"(4712529.779523823, 2251268.999101846)",1213-1,Calasanz Parte Alta,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,130.75517641320178,1036.328610475704
+
+171,"(4710834.512690984, 2250750.5394818955)",1307-1,Juan XXIII La Quiebra,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,98.4518080543279,81.59293906511246
+
+172,"(4710817.166889944, 2250779.040614237)",1307-2,Juan XXIII La Quiebra,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,15.613962549207994,2.123547148940588
+
+173,"(4710800.861677593, 2251357.3776498227)",1307-3,Juan XXIII La Quiebra,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,716.95403637764,9687.570303894816
+
+174,"(4709605.2246926315, 2249633.469412299)",1310-1,Veinte de Julio,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,70.24862061329503,277.8738798673378
+
+175,"(4709478.674602142, 2249685.6308293487)",1310-3,Veinte de Julio,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,87.31365347239465,340.8449841998915
+
+176,"(4709606.738306012, 2249690.161062918)",1310-4,Veinte de Julio,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,234.85204659922002,1558.8698539509658
+
+177,"(4719351.268676672, 2253567.752005825)",0112-4,Carpinelo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,985.1203520999849,29646.26891019365
+
+178,"(4719350.976115597, 2253815.851963461)",0112-5,Carpinelo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,927.5687712342511,24479.846252068997
+
+179,"(4719096.448568105, 2253797.488532904)",0112-6,Carpinelo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1918.2943563888148,48372.026038037744
+
+180,"(4717607.419794781, 2254675.22670835)",0206-1,Andaluc�a,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1063.6777538113713,11065.824685647636
+
+181,"(4716099.423201416, 2252542.7748620003)",0405-1,Moravia,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,212.39654121618577,4.834736110870708
+
+182,"(4716007.830048645, 2252323.5032069813)",0405-5,Moravia,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1357.0895168104096,64448.75618175288
+
+183,"(4716063.282972129, 2252925.356258779)",0405-3,Moravia,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,650.665163390315,23290.6972168664
+
+184,"(4718749.69238774, 2252826.593842667)",0314-1,San Jos� La Cima No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1136.346138375193,40969.989963925495
+
+185,"(4718829.431515959, 2253123.2485978883)",0314-2,San Jos� La Cima No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,560.9789577163837,15396.600324016334
+
+186,"(4718863.632397624, 2253249.000563424)",0314-3,San Jos� La Cima No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1368.6841112077263,20311.733025390346
+
+187,"(4706659.900130977, 2242800.957936494)",8007-3,La Verde,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,365.0866881273226,1905.400771676841
+
+188,"(4706802.319479611, 2242669.585686808)",8007-8,La Verde,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,502.18905211074167,8759.978430691981
+
+189,"(4718446.241544024, 2249617.1516049546)",0807-8,Los Mangos,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,531.4636658539479,11174.328891539126
+
+190,"(4715949.945166667, 2242759.7603000007)",1414-1,El Castillo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,12.184629566554456,4.073115022086525
+
+191,"(4712463.161792329, 2251949.377998409)",1301-1,El Pesebre,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1423.4546101141054,32639.498621821247
+
+192,"(4709823.267915353, 2249093.917614784)",1314-1,Las Independencias,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,112.35291174228901,710.4920805995479
+
+193,"(4709985.905172486, 2249089.174075112)",1314-2,Las Independencias,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,166.25213606325408,1345.0552937248492
+
+194,"(4709820.725244137, 2249130.1029857127)",1314-3,Las Independencias,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,126.06280718542257,986.8257754739002
+
+195,"(4709714.417061686, 2249090.551035217)",1314-4,Las Independencias,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,355.6207768790201,3806.567144641853
+
+196,"(4709572.657319591, 2249213.937704235)",1314-5,Las Independencias,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,941.69544117323,29640.557191522457
+
+197,"(4717615.322372623, 2253735.495048929)",0209-1,Mosc� No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,87.87702579344821,463.82561515563293
+
+198,"(4717571.545855674, 2254093.1767753917)",0209-6,Mosc� No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,120.15036490887938,329.8895181391824
+
+199,"(4719125.372004826, 2248012.3437557803)",0813-35,Villatina,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,174.05642842492682,674.9491318440498
+
+200,"(4719373.2593834875, 2247985.8398192055)",0814-14,San Antonio,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,132.5305109043886,998.1359541652055
+
+201,"(4718734.167113681, 2251526.6581155355)",0305-2,El Raizal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1302.6397350934403,46184.2076107501
+
+202,"(4718888.483968333, 2251349.079360423)",0305-3,El Raizal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1440.2640804699593,2813.9542159890816
+
+203,"(4719311.436759513, 2247614.4119008374)",0813-40,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,196.48068581686056,2185.7439196242426
+
+204,"(4717487.6727849785, 2253420.7883683247)",0106-1,Villa Guadalupe,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,171.6229982104968,569.8598744494066
+
+205,"(4717612.012823885, 2253380.22183714)",0106-2,Villa Guadalupe,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,322.31878270809756,3781.7532705479107
+
+206,"(4717934.338409062, 2253251.9416339435)",0106-3,Villa Guadalupe,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,70.10715318803601,332.31626475276175
+
+207,"(4718101.776838354, 2253237.707394623)",0106-4,Villa Guadalupe,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,224.77230913912132,3283.306452617411
+
+208,"(4719477.437091761, 2247796.306036977)",0814-23,San Antonio,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,394.5855137359689,1967.6759314507344
+
+209,"(4708442.346990481, 2247372.3934437083)",7002-2,Aguas Fr�as,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,209.58834230555664,1597.6327521577402
+
+210,"(4707984.504411902, 2247343.1617868687)",7002-3,Aguas Fr�as,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,151.05717230018794,1569.1007162916019
+
+211,"(4707157.406275093, 2247643.2215498583)",7002-4,Aguas Fr�as,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,838.6980255784677,13645.082335998006
+
+212,"(4720190.600940784, 2247207.4124913085)",0815-17,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,276.3302576237804,3802.4638591188454
+
+213,"(4718094.670437091, 2255503.018701823)",0202-1,Play�n de Los Comuneros,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1819.0669511292688,23540.205542058167
+
+214,"(4717930.707086936, 2255414.677772007)",0202-2,Play�n de Los Comuneros,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,718.8743053017398,11075.37347460481
+
+215,"(4720211.648199833, 2247302.532995491)",0817-6,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,264.7365086432172,3363.4990236161075
+
+216,"(4719625.411150546, 2247519.0509127886)",0819-17,Villa Lilliam,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,3.149460633395763,0.3752599764743406
+
+217,"(4718746.327279443, 2253850.7774614147)",0104-1,Granizal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,657.2930046691805,11922.423853034092
+
+218,"(4718307.933554352, 2253917.8265437065)",0104-2,Granizal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2199.932881646289,31405.727759589263
+
+219,"(4718129.840583113, 2254237.925742832)",0104-6,Granizal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,235.6621761102792,1723.8179377518452
+
+220,"(4718619.993276411, 2254062.0507530454)",0104-7,Granizal,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,18.572731411622584,14.428134817850308
+
+221,"(4720335.09251723, 2247004.1525662816)",0901-2,Juan Pablo II,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,15.989222171449816,9.808333923886
+
+222,"(4720208.019321367, 2247096.814371527)",0901-9,Juan Pablo II,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1191.7207946263845,8480.798242635736
+
+223,"(4720449.117753185, 2247114.802433182)",0815-14,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,84.65542552131406,119.46317199158989
+
+224,"(4720088.959463511, 2246932.3185216715)",0917-10,Ocho de Marzo,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,149.77391205911474,881.8435062000152
+
+225,"(4720485.25106854, 2247073.5665436722)",0815-18,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,175.20523330204483,299.47351267169324
+
+226,"(4716660.616151849, 2247600.893116469)",0912-2,El Salvador,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,588.3097424797046,7825.484014943566
+
+227,"(4716601.509639017, 2248306.5068777828)",0912-4,El Salvador,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,173.3513128637944,1800.3549990248785
+
+228,"(4719369.124361785, 2247569.748848262)",0813-45,Villatina,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,363.5920078601605,843.9024595915909
+
+229,"(4719330.815388272, 2247558.7240884337)",0813-48,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,92.98896467443133,435.8974364375341
+
+230,"(4718550.13045887, 2251747.2216410064)",0304-3,Santa In�s,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,736.2363049225811,12351.412617449098
+
+231,"(4718530.725520476, 2251984.631099184)",0304-4,Santa In�s,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,268.81376088577247,3257.5891489322526
+
+232,"(4718608.029117308, 2251944.7639222485)",0304-5,Santa In�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,71.37209745285736,279.6866428873086
+
+233,"(4718167.302990896, 2251953.144781824)",0304-6,Santa In�s,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,126.65398207598952,892.6741286759931
+
+234,"(4718999.025782167, 2249163.6648140317)",0807-4,Los Mangos,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,309.3075915123114,3526.567522664093
+
+235,"(4719119.383018971, 2248588.4139523795)",9003-4,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,515.7839215082038,9107.563085372798
+
+236,"(4719084.395276448, 2248890.7204535487)",9003-43,Piedras Blancas - Matasano,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,680.542430218025,19235.779539652955
+
+237,"(4719586.7805167055, 2247529.7603428303)",0815-23,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,194.65102125813786,780.1081457349627
+
+238,"(4719627.712728324, 2247518.2516159406)",0815-22,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,8.774798649725906,0.20705097286569002
+
+239,"(4719500.048233255, 2249621.7569805477)",9003-34,Piedras Blancas - Matasano,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,1143.9430367889127,43079.256023020775
+
+240,"(4719161.745421835, 2249493.549418374)",0806-3,Llanaditas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,764.2624945243323,9557.268576303026
+
+241,"(4719210.697499287, 2249630.337411582)",9003-40,Piedras Blancas - Matasano,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,164.23319301548483,559.4480205112425
+
+242,"(4719236.37880666, 2249623.92082886)",9003-41,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,175.44427441490942,1321.371292088101
+
+243,"(4703809.5410732385, 2243266.8427883424)",8003-2,Monta�ita,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,233.8778399629365,3767.0724525661676
+
+244,"(4704045.555409294, 2243402.8656858653)",8003-3,Monta�ita,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,449.57478541054496,13752.679922672643
+
+245,"(4705418.119225343, 2241825.1933468017)",AUC2-1,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,236.9459318415046,1419.4165444543182
+
+246,"(4705673.6097811395, 2242036.2596914787)",AUC2-2,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,658.1477479373381,5912.919989572959
+
+247,"(4705660.395956762, 2242195.00856533)",AUC2-3,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,142.40850735515718,747.2243210730478
+
+248,"(4706159.016302193, 2242555.3740112847)",AUC2-5,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,429.7715454639599,3317.0209667915415
+
+249,"(4706912.452666666, 2242641.4989000005)",AUC2-6,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3.888882886152301,0.3237162592617718
+
+250,"(4706868.165213277, 2242531.82007798)",AUC2-9,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,98.62934799829515,678.5593182594575
+
+251,"(4707088.9664695505, 2242496.175227188)",AUC2-10,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,399.6778001407675,4538.212081929156
+
+252,"(4707125.576126127, 2241520.3218612233)",AUC2-11,San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,206.2617766247835,2921.896589590208
+
+253,"(4710712.437063327, 2247286.178509586)",1616-1,Las Violetas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,143.68220198679555,628.7925636113783
+
+254,"(4710683.250953523, 2247304.338348714)",1616-2,Las Violetas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,88.2555323190488,290.9194700173931
+
+255,"(4710660.244975731, 2247306.126289683)",1616-3,Las Violetas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,127.98038039020673,657.7529468886519
+
+256,"(4710697.681621522, 2247350.7038772735)",1616-4,Las Violetas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,135.5243538465365,648.5676052739741
+
+257,"(4710821.053403113, 2250646.1325294436)",1306-1,La Pradera,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,23.973425332499644,3.1816020741420865
+
+258,"(4716462.543457474, 2254240.385444377)",0508-1,Belalc�zar,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,505.8587100903702,14278.414128993149
+
+259,"(4720026.685417132, 2247150.763613724)",0815-19,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,211.43218009270464,2179.3138326544126
+
+260,"(4719944.307927684, 2247206.26363705)",0815-20,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,668.4784949884826,18676.554661349866
+
+261,"(4709405.80008865, 2246591.974189285)",7005-3,Altavista Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,107.64683081313594,682.7411011704667
+
+262,"(4718918.7315562945, 2249445.1478874036)",0807-3,Los Mangos,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,39.41727022035808,47.915738752209414
+
+263,"(4710985.1087384, 2252262.775044671)",0720-4,Santa Margarita,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,2980.764049632678,100715.60290012552
+
+264,"(4719923.1028980585, 2247543.376417975)",0815-32,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,2.463643424147866,0.041687859680078314
+
+265,"(4719922.9838000005, 2247543.392933335)",0815-26,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1.2517300019139883,0.01156872009938091
+
+266,"(4719851.136122573, 2247554.4249218185)",0819-20,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,2.850785402033025,0.0201572811582239
+
+267,"(4718862.161059394, 2247850.5889785965)",0813-30,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,1094.6011573132012,27466.292021798476
+
+268,"(4719720.5452874, 2247490.865571318)",0815-24,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,782.9902406373649,13777.890053170593
+
+269,"(4720279.700668823, 2247025.49301658)",0901-8,Juan Pablo II,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,1187.9364230133863,23640.13613542385
+
+270,"(4720009.030279787, 2246936.031217712)",0901-8,Juan Pablo II,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,616.7831338756255,13289.622096557763
+
+271,"(4709491.295385828, 2246641.6649347404)",7005-4,Altavista Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1275.3542555585523,38635.06893381909
+
+272,"(4708748.4068840975, 2246150.273550522)",7005-6,Altavista Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,91.95350978805655,586.0311188373609
+
+273,"(4719047.08955066, 2247527.2860806943)",0905-3,Alejandro Echavarr�a,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,449.6876969635347,759.4446217198794
+
+274,"(4719057.918545599, 2247545.314542451)",0813-28,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,502.2926459760112,7819.211862878598
+
+275,"(4705668.966457659, 2241649.3402210847)",8001-3,La Florida,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,110.22947156291862,546.5604067309538
+
+276,"(4706387.321224759, 2240599.6164787677)",8008-1,San Jos�,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,493.05939249722553,3920.292230754941
+
+277,"(4702250.957438877, 2259637.499720413)",5004-4,Palmitas Sector Central,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,451.476841232109,10270.022744469094
+
+278,"(4706206.685021212, 2256109.868266283)",6006-1,Boquer�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,682.907451933594,12127.27858069308
+
+279,"(4718916.091405111, 2247333.6359086595)",0904-2,Los Cerros El Vergel,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,138.15142864597414,937.897187082584
+
+280,"(4718897.215487663, 2247307.7590470845)",0904-4,Los Cerros El Vergel,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,111.66967726885233,448.7802978586638
+
+281,"(4710429.259638314, 2251979.2354301102)",0720-1,Santa Margarita,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,252.07562790569574,2916.6901076367967
+
+282,"(4711341.887674196, 2252371.6783937984)",0720-2,Santa Margarita,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1374.492548609802,44395.674664532446
+
+283,"(4710178.135004376, 2252093.1966684978)",0720-3,Santa Margarita,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1482.802578452041,75171.82110811945
+
+284,"(4718928.024251065, 2247319.0421775496)",0904-3,Los Cerros El Vergel,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,202.4428223130327,935.1418143417309
+
+285,"(4709335.846163986, 2249846.5856336383)",1316-3,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1031.722070274595,18712.818375036968
+
+286,"(4716764.760595256, 2241986.7672423515)",1411-1,Los Balsos No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,193.79197030701866,2533.9408169441917
+
+287,"(4715965.192360927, 2242734.7342005013)",1411-2,Los Balsos No.1,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,175.54123354529995,1982.9746252721754
+
+288,"(4718723.691799505, 2253294.6444341745)",0108-2,El Compromiso,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,387.88746889508076,3910.8813283175973
+
+289,"(4718678.161900342, 2253468.349194926)",0108-3,El Compromiso,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1137.0264155935492,22710.871900694186
+
+290,"(4718707.387732724, 2253664.458791664)",0108-4,El Compromiso,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,303.45020876100256,4989.436367515346
+
+291,"(4718689.154162147, 2253516.5694226515)",0108-5,El Compromiso,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,312.21138486349713,5050.378853143441
+
+292,"(4718855.94394147, 2252343.954065345)",0315-1,San Jos� La Cima No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,74.41260071230255,98.03099718298377
+
+293,"(4718690.963144867, 2252420.789485064)",0315-2,San Jos� La Cima No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1801.5133809849947,113688.40313817705
+
+294,"(4711157.956220249, 2250619.4914074773)",1306-2,La Pradera,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,258.98417480994976,1614.0980168160368
+
+295,"(4716093.785966014, 2247886.0146016334)",1020-1,San Diego,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,282.1614858524196,4588.433587680592
+
+296,"(4709047.424117181, 2249912.7690232797)",1316-1,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,123.88164971038724,778.0198396706465
+
+297,"(4709027.841932268, 2249709.962633083)",1316-2,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1979.8100310314098,58584.05307511734
+
+298,"(4719719.946180847, 2247520.1793838497)",0819-18,Villa Lilliam,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,389.0479589008271,1799.7593087085893
+
+299,"(4717672.805200863, 2243359.232364995)",9001-1,Las Palmas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,8.107457917736026,3.434876322141096
+
+300,"(4720243.7062287275, 2246801.5522276536)",9001-4,Las Palmas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,97.96872630889983,113.41910138423944
+
+301,"(4720032.304829246, 2246881.299342696)",0917-9,Ocho de Marzo,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,382.7240089184688,2255.0402087812063
+
+302,"(4717804.958927857, 2243943.2314973576)",9001-6,Las Palmas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,78.02871351443352,86.52546126185759
+
+303,"(4718428.764822168, 2244443.1846484933)",9001-7,Las Palmas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,114.4895375027536,703.6816816425156
+
+304,"(4718350.320983337, 2244786.8045464223)",9001-8,Las Palmas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,150.73029853205796,1558.422591968576
+
+305,"(4708547.196995989, 2246011.6109986217)",7001-1,Buga Patio Bonito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,842.771408513254,15819.725285256785
+
+306,"(4707564.262985555, 2246352.811559343)",7001-6,Buga Patio Bonito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,542.835382887796,17557.04629070079
+
+307,"(4720241.378969322, 2246970.3884157115)",0917-9,Ocho de Marzo,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,635.9607935645569,3969.6536040273836
+
+308,"(4719686.3565650005, 2247208.300109984)",0902-4,Barrios de Jes�s,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1480.8293072788895,19573.882565179767
+
+309,"(4709680.598168162, 2245956.5952818156)",7006-4,La Esperanza,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,330.54449397793144,7153.640641824709
+
+310,"(4719935.535279438, 2246840.7104535196)",0917-9,Ocho de Marzo,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,7.895843018923839,0.7990344951608509
+
+311,"(4719939.252200001, 2246840.9078000016)",0917-9,Ocho de Marzo,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,6.543116626756496,0.04300427663190595
+
+312,"(4710695.787744657, 2244598.5714705186)",7007-3,San Jos� del Manzanillo,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,239.00843392235618,2991.5690050574412
+
+313,"(4711022.25121045, 2244575.9436744545)",7007-5,San Jos� del Manzanillo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,300.1884654824093,2891.94531941609
+
+314,"(4710392.237835632, 2244570.234323373)",7007-6,San Jos� del Manzanillo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,215.75797365240047,1865.4851953211858
+
+315,"(4710360.1011603875, 2244559.6474937056)",7008-5,San Jos� del Manzanillo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,75.9964373404944,13.800087980815462
+
+316,"(4710362.966060317, 2244584.34378871)",7007-7,El Jard�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,40.23787579446804,4.231772081277011
+
+317,"(4709428.300514375, 2244357.2217686786)",7008-3,El Jard�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,447.963529236684,12893.278760336954
+
+318,"(4710292.516018351, 2244749.5690849875)",7008-4,El Jard�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,544.916199847013,14409.844082502683
+
+319,"(4710350.45886247, 2244557.7052227384)",7008-6,El Jard�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,106.66566932345029,632.2002416392091
+
+320,"(4710367.057453522, 2244587.7043297994)",7008-2,El Jard�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,48.19599377301345,113.2814740113711
+
+321,"(4717441.690011527, 2252596.049120857)",0411-2,Las Esmeraldas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1074.0492823865497,26351.233057779602
+
+322,"(4719413.222400882, 2249842.1171284504)",9003-32,Piedras Blancas - Matasano,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,926.2763090319438,39047.12802896028
+
+323,"(4704784.360223718, 2245225.4834535345)",8006-5,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,516.94214511291,16788.739430810987
+
+324,"(4704556.547175274, 2244634.464611419)",8006-6,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,452.0616092133928,11327.523627053108
+
+325,"(4705543.748929652, 2243321.454659135)",8006-7,El Salado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,390.654424195038,5585.55607075922
+
+326,"(4706135.552707419, 2242567.3599678907)",8007-2,La Verde,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,422.4505629860366,5463.790272735516
+
+327,"(4719116.370546642, 2249829.0611879486)",9003-42,Piedras Blancas - Matasano,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,406.5934878808702,3152.0219489465953
+
+328,"(4719083.774689997, 2249828.5392627083)",0806-9,Llanaditas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,658.6175366548506,11108.059466081631
+
+329,"(4719472.45273486, 2247707.025911527)",0813-43,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,732.1190339537932,11737.498041506953
+
+330,"(4719936.002335902, 2247672.0019645575)",0819-12,Villa Lilliam,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,292.3224329240642,4091.1779861974965
+
+331,"(4719077.7693989305, 2248175.4824147923)",0813-14,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,88.74098798855267,351.3676447318022
+
+332,"(4719217.191068287, 2248289.2237226614)",0813-15,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,815.7260409138697,25491.05113768846
+
+333,"(4719415.093340123, 2249675.4354885654)",9003-33,Piedras Blancas - Matasano,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,420.050777617051,8842.789817508814
+
+334,"(4719998.687696721, 2247288.5165744047)",0817-5,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,250.82932655791274,2031.9669189729088
+
+335,"(4719562.364173574, 2249522.575400807)",9003-35,Piedras Blancas - Matasano,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,562.4096858328033,19625.439688078706
+
+336,"(4716944.965799696, 2253615.396137706)",0402-5,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,786.9356931511671,10855.34384401529
+
+337,"(4716842.698884222, 2253303.9152957927)",0402-6,San Isidro,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,204.44033763161477,2487.0533499338176
+
+338,"(4719147.758311207, 2249575.350310785)",0806-12,Llanaditas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,260.64596637329623,2335.0489389851336
+
+339,"(4719039.264260794, 2249507.7122730124)",0806-11,Llanaditas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,138.9305381267581,655.2877734966727
+
+340,"(4719630.575770519, 2247600.7563910987)",0819-13,Villa Lilliam,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,247.69194429165663,2405.413440802895
+
+341,"(4719557.501541574, 2247549.106087246)",0815-22,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,46.904808916653444,82.25962358984316
+
+342,"(4719558.193816237, 2247903.363346235)",0814-7,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,635.0764572905579,7313.916812330948
+
+343,"(4719888.422488996, 2247771.0718701845)",0816-7,Villa Turbay,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,77.30931461465761,153.62519091103397
+
+344,"(4707280.801235091, 2254403.200266555)",6017-1,El Llano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,327.98402472409924,5393.844291548482
+
+345,"(4718203.660289602, 2254886.648142931)",0103-13,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,362.5224153084728,4764.94156822066
+
+346,"(4719395.0149737075, 2251243.524971923)",0311-1,La Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,113.3671403820487,227.26960994847732
+
+347,"(4719195.911898711, 2251354.7513402696)",0311-2,La Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,25.545725363113977,26.96265540802659
+
+348,"(4719639.612250267, 2251215.081681436)",0311-3,La Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2833.7091289550444,60626.96261316048
+
+349,"(4719621.884395918, 2252054.72196427)",0311-4,La Cruz,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,58.86114601733632,53.07061728817402
+
+350,"(4719524.799324488, 2247426.1308611706)",0815-16,Las Estancias,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,373.7198111521474,4894.33157187279
+
+351,"(4714467.840226844, 2254134.606416166)",0606-3,San Mart�n de Porres,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,474.4882925792968,13683.75096629615
+
+352,"(4719599.044587178, 2247407.929683848)",0815-16,Las Estancias,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,307.07860278833294,2648.5961024614717
+
+353,"(4719567.680107025, 2247383.4332589055)",0815-16,Las Estancias,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,4.402216346585726,0.6064176589466056
+
+354,"(4719678.080436013, 2247457.3168928674)",0815-28,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,556.6366131572081,3495.828097821236
+
+355,"(4719744.914656044, 2247772.2285537636)",0819-10,Villa Lilliam,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,878.5138357284252,22322.612747028903
+
+356,"(4719677.3157599885, 2247835.6394037255)",0813-44,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,561.2021667668241,4738.153965912186
+
+357,"(4719945.154020723, 2247879.097463412)",0816-7,Villa Turbay,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,620.9400370940696,8183.404034839667
+
+358,"(4719729.42387689, 2247375.1858982616)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,656.1990798590048,16906.005928077368
+
+359,"(4718716.361091297, 2253692.764930072)",0107-1,San Pablo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,168.5374592791974,408.17525278668086
+
+360,"(4718506.342209948, 2253787.7424427764)",0107-2,San Pablo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,380.0290208040114,2063.2342855790707
+
+361,"(4718139.762588933, 2253234.5801428594)",0107-3,San Pablo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,164.12659481175996,1388.9608278022001
+
+362,"(4719388.116372655, 2250059.6935279053)",0806-8,Llanaditas,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,75.98056787241094,254.42119777554797
+
+363,"(4719516.867816646, 2247357.167710863)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,170.00074178445507,1149.4540689619432
+
+364,"(4719504.374572098, 2247327.4009956243)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,39.98894429494324,69.48352037859894
+
+365,"(4719515.035953559, 2247324.060090231)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,85.20146354191967,281.1033665012281
+
+366,"(4719046.6439994555, 2250763.2702649916)",0310-1,Versalles No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2259.445546437163,76324.69070680522
+
+367,"(4720173.966153368, 2247247.55674453)",0815-17,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,94.1958798157609,446.54835345888426
+
+368,"(4719291.190250345, 2249378.2908810754)",9003-37,Piedras Blancas - Matasano,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,173.49197943515458,1532.6911039115614
+
+369,"(4720413.904547262, 2247791.5751962485)",0816-11,Villa Turbay,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,112.06522594586949,671.8093742183443
+
+370,"(4720013.557390274, 2247346.1695661093)",0817-13,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,418.4394225961746,4455.322829265386
+
+371,"(4719538.94615093, 2251550.9643343813)",0311-5,La Cruz,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,768.2764794246385,26103.318872500557
+
+372,"(4719109.463299333, 2251654.624521448)",0311-6,La Cruz,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,6114.502827060623,217248.750966509
+
+373,"(4720679.4303111825, 2247453.3915467635)",0817-27,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,64.03364243118925,113.74960133309214
+
+374,"(4720599.856163466, 2247420.9159703855)",0817-25,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,95.40459402143128,199.70990821743007
+
+375,"(4718811.930265609, 2248692.101830481)",0812-2,La Libertad,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,427.3526765393698,4189.422898450448
+
+376,"(4719055.361714804, 2248214.166873701)",0812-3,La Libertad,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,241.6596771781015,3018.0536564858635
+
+377,"(4718863.9823454935, 2248329.264311196)",0812-4,La Libertad,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,2535.162368173648,85700.84224965205
+
+378,"(4720538.1363535905, 2247393.049754587)",0817-26,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,225.5837563610992,2854.313741200649
+
+379,"(4717684.6170158135, 2249761.28134651)",0803-1,San Miguel,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,5.178192738626536,0.23706535950133892
+
+380,"(4720362.011964143, 2247815.548530037)",0816-10,Villa Turbay,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,128.45090955828402,1106.1911568026278
+
+381,"(4716532.702475091, 2247291.366845913)",0914-2,Asomadera No.1,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,465.20650403296673,13619.889868434826
+
+382,"(4718399.673400582, 2255007.629080455)",0103-2,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,382.00139316244815,5274.619275217598
+
+383,"(4718771.924123955, 2255054.962324799)",0103-3,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,274.05108118039345,1635.9088053832672
+
+384,"(4718908.234257433, 2255101.0042009065)",0103-4,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,686.8294221864952,13317.64402057573
+
+385,"(4718152.055880861, 2255259.1871519457)",0103-6,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,89.69868793143415,185.07948852690515
+
+386,"(4718488.620248744, 2255154.3564958675)",0103-7,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2384.482490480816,46934.77585895046
+
+387,"(4718651.361465683, 2255264.711665773)",0103-8,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,244.1932713984437,2424.8696334542387
+
+388,"(4717995.901652632, 2254500.591492922)",0103-9,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,382.50514383629076,4526.777560569016
+
+389,"(4718737.072588173, 2255029.9093069006)",0103-10,Popular,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,108.26864517858144,568.1515477454559
+
+390,"(4718729.730009105, 2255184.973477863)",0103-11,Popular,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1017.1162674183159,29809.8708985794
+
+391,"(4718009.168235098, 2254332.423003813)",0103-12,Popular,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,851.8755393291875,8143.514983220918
+
+392,"(4719438.699547631, 2250057.8103074688)",9003-31,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,354.7754010784443,6256.620367860703
+
+393,"(4715963.755401412, 2243177.34638965)",1415-1,Los Balsos No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,232.24151007650514,3636.191112375249
+
+394,"(4709046.065712127, 2249577.7878642986)",6014-1,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,588.9560443945791,4178.054798045854
+
+395,"(4718884.920040609, 2248754.483116805)",0812-2,La Libertad,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,99.55551373974409,376.63010342704735
+
+396,"(4719004.35732448, 2248898.413414534)",9003-44,Piedras Blancas - Matasano,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,11.956080186938419,2.6152126760415175
+
+397,"(4719006.643782408, 2248893.704827191)",0811-7,Trece de Noviembre,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,31.329567297925628,59.3342454435493
+
+398,"(4719008.377005298, 2248869.2666410464)",9003-44,Piedras Blancas - Matasano,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,80.11429654984069,299.3151565922256
+
+399,"(4719031.847262058, 2248809.7314670687)",0811-7,Trece de Noviembre,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,217.4823990544313,703.5711994663354
+
+400,"(4711259.3774830615, 2252445.5077272053)",AE1-1,�rea de Expansi�n Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,61.35940873881177,30.193411213240182
+
+401,"(4711358.3858357845, 2253798.8018205464)",AE1-2,�rea de Expansi�n Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3865.8867074834707,123902.07197090323
+
+402,"(4718937.774974651, 2248782.504982243)",0811-5,Trece de Noviembre,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,489.46042961557055,10544.675930890271
+
+403,"(4706189.966368008, 2241847.114214033)",AE7-1,�rea de Expansi�n San Antonio de Prado,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,325.5817134233297,4511.546389575275
+
+404,"(4706152.446598451, 2240765.320594142)",AE7-2,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,511.09111607365344,11311.256819489845
+
+405,"(4719190.313602242, 2251186.7346366206)",0310-3,Versalles No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1641.0237280478816,35284.96552052267
+
+406,"(4719063.479095584, 2248762.1043037516)",0811-1,Trece de Noviembre,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,12.289683623767427,6.058190969271325
+
+407,"(4719289.08724316, 2249186.8168544234)",9003-39,Piedras Blancas - Matasano,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,294.62753982824995,5042.646488855409
+
+408,"(4719237.005374167, 2249165.704575697)",0811-4,Trece de Noviembre,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,98.6759364402454,250.46583172509418
+
+409,"(4719507.53346982, 2249285.5685299416)",9003-36,Piedras Blancas - Matasano,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,546.0833995064155,13080.709629911822
+
+410,"(4718985.663987305, 2250056.464942007)",0804-3,La Ladera,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,73.03175925398335,131.59503855993233
+
+411,"(4711457.807205922, 2246750.1746561048)",1613-1,Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,509.8303166841462,12045.44431624796
+
+412,"(4711730.890562004, 2246657.582261924)",1613-3,Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,119.95763507998397,703.8209518903386
+
+413,"(4711529.083620827, 2246600.460310634)",1613-4,Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,492.2790440988295,9462.790826966671
+
+414,"(4711687.448613381, 2246604.3876216332)",1613-5,Altavista,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,201.42557905037603,1020.8692136993675
+
+415,"(4711072.228125381, 2246326.780858107)",1613-6,Altavista,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,114.25089607865928,579.8070452117757
+
+416,"(4711069.632790532, 2246283.6216891883)",1613-7,Altavista,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,52.04883476246749,97.81780757073224
+
+417,"(4709970.432965406, 2250714.425914527)",1318-1,Antonio Nari�o,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,653.7807408207873,8205.444400517312
+
+418,"(4712544.263551688, 2251277.526328961)",1201-1,Ferrini,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,101.15952508787831,333.2388214753404
+
+419,"(4708697.078727642, 2254621.2441360885)",6008-1,La Ilusi�n,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,634.3070910645287,25780.15164447891
+
+420,"(4713138.293491181, 2254258.5564685776)",0712-1,Aures No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,285.1315886170048,5127.262319643248
+
+421,"(4719077.044185624, 2249292.3128458317)",0806-13,Llanaditas,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,230.2315563763084,3037.347419875251
+
+422,"(4719345.920376912, 2249203.1603101017)",9003-47,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,144.07536878451535,881.1066360571087
+
+423,"(4719123.587992157, 2249317.4067886746)",0806-2,Llanaditas,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,230.96917327099555,2281.1434193530977
+
+424,"(4712854.046183747, 2254166.2807787736)",0712-2,Aures No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,756.7285280757648,9724.951301913337
+
+425,"(4719516.783227449, 2247473.7687983275)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,399.7311651838393,3400.8036217615595
+
+426,"(4717695.944325249, 2249736.648882294)",0804-1,La Ladera,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,352.8736109006929,5372.191270744769
+
+427,"(4700596.929638988, 2260019.308878611)",5002-1,La Sucia,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,422.80455726200944,5409.9018677243375
+
+428,"(4719568.254218332, 2247348.7810524865)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,292.79916282084173,1403.712953240654
+
+429,"(4700606.965332363, 2259905.3233874994)",5007-1,La Aldea,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1225.7684852177917,56401.690003225995
+
+430,"(4700877.125888742, 2260119.409174969)",5007-3,La Aldea,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,462.3559467491958,12079.261650691065
+
+431,"(4719855.293683526, 2247328.613514048)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,137.08655283232957,1076.081912898188
+
+432,"(4719168.117044084, 2249219.8737517176)",0806-14,Llanaditas,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,735.159106384431,25014.897553724924
+
+433,"(4719534.089423219, 2247818.688702978)",0813-42,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,93.25155128729962,226.80182101880322
+
+434,"(4702616.345066915, 2257773.2599303266)",5005-4,Volcana Guayabal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,603.7770663371557,15490.40181757559
+
+435,"(4719727.554921121, 2247990.006533088)",9003-49,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,69.47452401286498,71.65163095065431
+
+436,"(4719703.337764653, 2247946.6754036653)",9003-49,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,102.69186194638988,140.2349296831513
+
+437,"(4718926.280371424, 2251098.8876509266)",0310-2,Versalles No.2,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,530.4729625833716,7373.387729459977
+
+438,"(4718867.979457501, 2247912.7631965517)",0813-29,Villatina,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,657.8225625414852,7687.8408981983075
+
+439,"(4719001.293923402, 2247810.1157347662)",0813-29,Villatina,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,399.35457650002957,3570.012531834362
+
+440,"(4719647.785605995, 2247928.8013062906)",0814-7,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,347.61723256573924,1097.685852102492
+
+441,"(4719389.115461644, 2249305.123335111)",9003-38,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,593.3462889837756,8787.130222581072
+
+442,"(4707977.398710305, 2252406.115355384)",6001-2,La Palma,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,84.32332789391731,29.59562291602169
+
+443,"(4704805.497080864, 2247278.526676365)",8005-1,El Astillero,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,619.9529184674125,11889.4680939848
+
+444,"(4704540.230884261, 2246738.4451136496)",8005-2,El Astillero,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,328.27682404052734,5828.599483802418
+
+445,"(4705440.496681302, 2241851.9949703515)",8002-1,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,71.10508722283602,24.07892125051441
+
+446,"(4705610.284387136, 2242004.363524744)",8002-2,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,586.6174112979201,4769.883541530268
+
+447,"(4705627.021476289, 2242192.318779767)",8002-3,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,185.79863242557005,851.9180584405239
+
+448,"(4705601.955328163, 2242228.161212705)",8002-4,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,92.15008432037905,175.6259141792581
+
+449,"(4705577.31537315, 2242269.997809726)",8002-5,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,39.068935761488525,63.621653242559354
+
+450,"(4705543.063613914, 2242301.008699222)",8002-6,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,175.93650559161827,896.4340231744063
+
+451,"(4704613.453464449, 2241587.6124725407)",8002-10,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1825.889025723382,26888.853593687963
+
+452,"(4704254.93501199, 2242956.0687997444)",8002-13,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,922.1524317483589,18100.360356897025
+
+453,"(4705589.248626131, 2243231.4357281374)",8002-14,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,231.10456412631177,3024.1502094261164
+
+454,"(4705695.758741533, 2242954.021354388)",8002-15,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,311.80625909533126,2483.107544705262
+
+455,"(4705506.993606405, 2242565.517112538)",8002-16,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,166.2863883122226,1013.905088472387
+
+456,"(4705392.289065699, 2241706.9506160677)",8002-17,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,288.5812887219437,2825.5510349427227
+
+457,"(4704505.29935664, 2242207.0269653904)",8002-18,Potrerito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,440.8667466637458,11866.065661208584
+
+458,"(4706000.559205406, 2241706.6298724585)",AE7-3,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,395.55468348502393,4612.143928078752
+
+459,"(4705674.955097346, 2241658.1857523364)",8001-2,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,6.341445565796685,1.0434134522584895
+
+460,"(4705648.199275345, 2241691.1732964)",AE7-5,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,266.9524543817961,2298.2733362917925
+
+461,"(4705727.263630445, 2241665.4754063715)",AE7-6,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,106.71604106479874,560.1408731007508
+
+462,"(4706357.553730911, 2241832.8902411023)",AE7-7,�rea de Expansi�n San Antonio de Prado,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,110.75891795066399,676.9752410219849
+
+463,"(4719551.513340124, 2247368.4080325766)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,308.76613965834827,2623.5291542334785
+
+464,"(4719510.336437553, 2253365.862267837)",9003-20,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2131.686002322099,37810.05478940043
+
+465,"(4719457.420619624, 2253778.1985622705)",9003-21,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,179.76552965375936,1387.2196430686631
+
+466,"(4719473.331011241, 2254155.9401123696)",9003-23,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,28.540432816013155,9.54567996705036
+
+467,"(4719544.08003241, 2252533.012546042)",9003-25,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,322.77591690222755,7428.527146066678
+
+468,"(4719828.2553811865, 2247542.744266621)",0815-25,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,99.3168787483386,267.4837351263877
+
+469,"(4706882.844158224, 2252120.356150272)",6002-4,El Patio,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,460.08162042492086,5933.337721397148
+
+470,"(4719852.88035931, 2248084.2112638215)",9003-45,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,6.815830144407945,1.5055996320327976
+
+471,"(4719796.633019594, 2248057.105860584)",9003-49,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,21.078186095540026,4.466010069676248
+
+472,"(4719775.621538214, 2248031.668376706)",9003-49,Piedras Blancas - Matasano,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,14.033327229296516,1.344544750034656
+
+473,"(4708931.401795484, 2249937.1532265684)",6014-2,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,132.82287543733233,842.170549031392
+
+474,"(4710733.771995242, 2250744.0926040406)",6014-3,La Loma,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,809.1496271800393,24574.046843604956
+
+475,"(4710768.799107884, 2250632.9681505696)",6014-6,La Loma,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,289.1207446655509,4710.699843667844
+
+476,"(4709989.493110735, 2250737.9551600902)",6014-7,La Loma,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,302.92257259776784,3173.06066165036
+
+477,"(4719922.278695939, 2247779.6398511403)",0819-8,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,13.103224642460297,5.649629199255256
+
+478,"(4717254.552088782, 2252564.7083882927)",0412-2,La Pi�uela,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,322.6108079951953,2667.2016569493203
+
+479,"(4717451.623342732, 2252671.6610429673)",0412-3,La Pi�uela,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,528.8645708774235,2545.752607974698
+
+480,"(4711098.093849318, 2254375.1095268377)",6009-1,Yolombo,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1241.98259042911,44028.15701836987
+
+481,"(4712772.99277768, 2254259.073608759)",6011-1,El Picacho,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,675.8190284683781,21032.816752364404
+
+482,"(4714147.8298355285, 2255278.077786754)",6011-3,El Picacho,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,1076.2129938894698,28864.265235417934
+
+483,"(4709118.487793073, 2252293.7827718817)",AUC1-2,Cabecera Urbana Corregimiento San Crist�bal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,761.1258916222341,9708.428633547244
+
+484,"(4708540.307934, 2252801.119707645)",6013-1,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,480.60202843985286,14877.146466846545
+
+485,"(4709304.023796938, 2253699.4895584844)",6013-10,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,286.947421756177,5911.5075741510755
+
+486,"(4709403.225665859, 2253639.067651755)",6013-11,Pedregal Alto,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,145.34892508046659,1364.4373727173463
+
+487,"(4709880.697670213, 2248682.326563784)",7003-1,El Coraz�n El Morro,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,294.6845700700681,4951.970566362931
+
+488,"(4718666.325478022, 2253137.7832684214)",0301-2,La Salle,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,26.571628101382387,13.245201524085344
+
+489,"(4718661.34431889, 2253253.6202605697)",0301-4,La Salle,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,97.35598644976795,358.4256791968422
+
+490,"(4718036.100364491, 2252796.9893578133)",0301-5,La Salle,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,61.884870603750855,240.8136475303409
+
+491,"(4718242.849145432, 2253084.4714229554)",0301-6,La Salle,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,72.5838636382155,396.71974598545904
+
+492,"(4719986.9053427745, 2247701.303067132)",0816-17,Villa Turbay,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,44.627816068193944,39.170263515137684
+
+493,"(4720006.510966659, 2248277.4474069676)",9003-50,Piedras Blancas - Matasano,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,415.30611567256614,3345.3827039760463
+
+494,"(4705628.686640908, 2255454.220215379)",6005-3,Naranjal,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,460.626613633815,11025.415683702744
+
+495,"(4720433.878452696, 2247797.6859876867)",9002-12,Media Luna,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,89.07144468980215,240.92477156836958
+
+496,"(4719755.843908578, 2247949.285188443)",0814-22,San Antonio,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,823.7026551168709,23452.761815344038
+
+497,"(4718843.859448882, 2250551.1302311565)",9003-14,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,378.9142439954502,5984.7795786108745
+
+498,"(4719514.906388984, 2250863.541584144)",9003-15,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,4619.691090396648,210468.31095831428
+
+499,"(4719569.787278671, 2252062.6142686545)",9003-17,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,3164.431804407248,99196.96609855462
+
+500,"(4711053.220308765, 2246299.537231797)",AE5-2,�rea de Expansi�n Altavista,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,203.73976551215958,2334.5917706279224
+
+501,"(4710935.854270511, 2246284.209768593)",AE5-4,�rea de Expansi�n Altavista,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,203.82616000183842,2047.2079281586457
+
+502,"(4720237.71670418, 2247408.3421995384)",0817-12,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,103.30681228142846,439.04871997004597
+
+503,"(4719303.183275518, 2252792.4880409096)",9003-18,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,388.95442813446607,4621.573606619099
+
+504,"(4719372.266566012, 2252883.349120767)",9003-19,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,301.2884644500017,2614.8946235963977
+
+505,"(4719689.2262, 2247600.9956666683)",0819-15,Villa Lilliam,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,0.03605688419301988,2.4385009214058367e-05
+
+506,"(4719926.205464736, 2247442.778496527)",0815-27,Las Estancias,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,1131.9633054359883,29620.46631649839
+
+507,"(4720580.115283305, 2247653.6774032954)",0817-20,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,66.71307463635382,116.38247711798122
+
+508,"(4720756.591330963, 2247550.6091506365)",9002-16,Media Luna,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,85.84817655830109,531.2413893843337
+
+509,"(4719766.674248592, 2247431.4166290485)",0815-29,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,161.0279647504771,1468.7971714390935
+
+510,"(4720400.096002926, 2247368.187172313)",0817-15,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,159.43599312630508,706.8366194402868
+
+511,"(4720527.526591584, 2247519.8785975827)",0817-17,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,612.5391370641827,5453.9936920601085
+
+512,"(4720686.601046407, 2247500.8643615916)",SN02-10,La Sierra,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,170.37263747344304,1306.9520256953456
+
+513,"(4720022.7353, 2247631.3639333337)",0816-14,Villa Turbay,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,2.887393259807257,0.15507060024275032
+
+514,"(4719871.753472754, 2247624.9712566626)",0819-14,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,620.1224463202059,4615.56637342429
+
+515,"(4719582.284077788, 2247475.9892925965)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,195.89719152313347,616.7136935810203
+
+516,"(4719982.338202673, 2247684.1391772134)",0816-16,Villa Turbay,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,53.88202213119144,74.77000397983211
+
+517,"(4719595.5396452565, 2247454.987687119)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,91.97142002692411,513.1524601447011
+
+518,"(4719586.968134811, 2247490.6216641287)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,76.02799322604685,151.34501357578097
+
+519,"(4719618.750646123, 2247447.3455257127)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,191.49034285163086,478.3470712970294
+
+520,"(4719569.050591409, 2247419.6565082553)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,173.06552497654945,452.7022903356115
+
+521,"(4719986.321108411, 2247634.4557892387)",0816-15,Villa Turbay,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,147.57065096533069,820.143282518203
+
+522,"(4719573.41869753, 2247505.16045252)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,44.03556728896876,99.09795789599367
+
+523,"(4720010.744778077, 2247620.8092993773)",0816-14,Villa Turbay,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,194.04124770488687,1200.1749193702694
+
+524,"(4719560.972805592, 2247492.3667882346)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,186.09430296094132,958.0142329676188
+
+525,"(4719545.815433334, 2247410.3343333355)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,8.528192789500942,0.59407860640597
+
+526,"(4719523.857735312, 2247377.9828714896)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,138.40740701849313,355.28912918629214
+
+527,"(4719572.4822652275, 2247447.624984883)",0815-16,Las Estancias,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,230.95879949667005,1049.0205936779303
+
+528,"(4719631.673310239, 2247437.9685819503)",0815-16,Las Estancias,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,117.29013204820625,318.822314821155
+
+529,"(4719655.66035768, 2247435.376118279)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,34.26284234729878,41.42127592243505
+
+530,"(4719676.393845285, 2247437.434423904)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,83.22010701484032,62.26805847612038
+
+531,"(4719723.450008162, 2247428.2264399016)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,31.228818867823154,5.683286141211903
+
+532,"(4719730.692122301, 2247426.326004579)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,12.808973147762215,1.03193594960404
+
+533,"(4719717.060998073, 2247429.0223686616)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo mitigable,33.66016945571834,13.6228140548648
+
+534,"(4719613.027699065, 2247372.075687463)",0815-16,Las Estancias,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,33.990651772229924,48.34746192430484
+
+535,"(4719756.700460714, 2247314.5387908593)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,873.7885537755989,10652.838493780218
+
+536,"(4719967.089098445, 2247314.120506223)",0817-14,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,60.84689690604418,57.16056492890693
+
+537,"(4720090.828199188, 2247532.258888159)",0819-19,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,197.86901974437185,1115.2336738636216
+
+538,"(4720060.342881379, 2247568.2791865435)",0819-19,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,308.19194667283915,3005.5550566109578
+
+539,"(4720121.3494203845, 2247538.592044217)",0816-13,Villa Turbay,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,157.5531974174466,779.3575126577296
+
+540,"(4720114.642117866, 2247635.8720591464)",0816-13,Villa Turbay,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,504.36978027086974,10257.314223686866
+
+541,"(4720273.951496932, 2247675.522888594)",0816-12,Villa Turbay,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,1436.7305422365666,29570.30477523404
+
+542,"(4720204.10237905, 2247540.7981081405)",0817-10,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,104.81125742843409,202.56666944228283
+
+543,"(4720248.729805988, 2247579.308121807)",0817-10,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,109.80405909153454,206.48428216020582
+
+544,"(4720195.319059731, 2247458.0170996203)",0817-11,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,374.2012964065368,3975.729162284742
+
+545,"(4719919.790291657, 2247544.4760247925)",0815-8,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,15.561128823804935,0.8464075164835276
+
+546,"(4719912.2542767525, 2247547.7862323453)",0815-8,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,13.48113811606001,1.0346169611463847
+
+547,"(4719906.374129039, 2247551.314697782)",0815-8,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,17.863204933376316,1.3416645068899122
+
+548,"(4719890.1852934975, 2247555.714691836)",0815-8,Las Estancias,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,39.92950628930969,2.4805379589706673
+
+549,"(4719899.053547465, 2247554.1909020096)",0815-32,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,8.808112017653524,0.22738690526598804
+
+550,"(4719876.9543, 2247556.190533333)",0815-32,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,1.6181620950580204,0.007392779594351799
+
+551,"(4719873.966259787, 2247555.9738770644)",0819-20,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,4.630919726835994,0.03030719755513251
+
+552,"(4719865.846802699, 2247555.3525231658)",0819-20,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,13.6959250543459,0.17468124877265656
+
+553,"(4719936.371585422, 2247532.0854769307)",0819-21,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,1.4805037931177663,0.02558247874519459
+
+554,"(4719938.448743507, 2247528.6860447763)",0819-21,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,10.314249919297767,0.3264139035038531
+
+555,"(4719952.183617052, 2247503.139773545)",0819-21,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,30.514401947901618,2.1150434613931344
+
+556,"(4719980.441806217, 2247476.291992584)",0819-21,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,7.0640170762437124,0.247570428925189
+
+557,"(4720013.667770296, 2247488.0860945177)",0819-21,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,103.59050592400031,13.46407852684503
+
+558,"(4720047.38533479, 2247494.8261273257)",0819-21,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,4.733180868852672,0.026913692592475877
+
+559,"(4720050.150281586, 2247493.830840872)",0819-21,Villa Lilliam,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,4.1336766185496385,0.30957313772104844
+
+560,"(4720109.426462273, 2247438.315332667)",0815-30,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,421.68609705583276,4428.56852840013
+
+561,"(4719363.93109182, 2247930.5034398627)",0814-21,San Antonio,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,1361.1500412190076,30429.691706608217
+
+562,"(4719245.426696599, 2247671.063419903)",0813-27,Villatina,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,370.3146783874414,7884.43689916352
+
+563,"(4710836.746905946, 2251535.720189456)",SN01-1,Juan XXIII La Quiebra,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,849.0591585688456,28448.319359998986
+
+564,"(4710921.636305372, 2251373.981066951)",SN01-3,Juan XXIII La Quiebra,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,175.9417856302872,1796.299600425259
+
+565,"(4719539.666151059, 2247336.1137846895)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,21.177653971251367,4.212920386611416
+
+566,"(4720183.0906866165, 2247052.665610397)",0901-11,Juan Pablo II,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,1401.0462104454944,24560.733576316805
+
+567,"(4719455.623551434, 2247750.2849691287)",0813-46,Villatina,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,50.48458476913521,23.938348698677206
+
+568,"(4720457.750434562, 2247477.5155394077)",0817-16,La Sierra,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,489.2186965716724,5363.017023091906
+
+569,"(4719450.572854901, 2252473.1783392904)",9003-29,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,252.4109886967264,3874.5517759917425
+
+570,"(4719278.145582411, 2249695.628694777)",9003-27,Piedras Blancas - Matasano,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,2308.9064102031853,90545.14823040049
+
+571,"(4719551.866816016, 2247341.7880712985)",0815-13,Las Estancias,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,32.09896149478242,6.787724461597087
+
+572,"(4720600.318217424, 2247468.1647772994)",0817-24,La Sierra,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,578.5934326796555,12191.748646933122
+
+573,"(4719543.463762909, 2247338.449634553)",0815-15,Las Estancias,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,1.57689032745179,0.030295494336557687
+
+574,"(4719930.811237823, 2247538.444263432)",0819-20,Villa Lilliam,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,34.8217915336046,3.942547843909405
+
+575,"(4720705.852235063, 2247527.452065166)",9002-17,Media Luna,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,196.85317091253162,928.5693290826196
+
+576,"(4720692.119329516, 2247539.1452377853)",9002-19,Media Luna,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,32.41957671149369,35.15395971613035
+
+577,"(4720700.329972002, 2247498.6031037234)",SN02-11,La Sierra,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,175.38339311827454,424.0792338578353
+
+578,"(4720684.877880559, 2247461.890139279)",9002-2,Media Luna,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,4.276928091414417,0.5278293555509825
+
+579,"(4720553.29986796, 2247653.301370598)",0817-18,La Sierra,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,328.7366085151085,2255.581237749982
+
+580,"(4712673.348562057, 2254256.773062708)",6012-2,Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,216.0627258003786,295.2142445909599
+
+581,"(4711192.324270001, 2254194.160573037)",6012-4,Pajarito,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,1980.626907429505,183516.48624799916
+
+582,"(4720580.604041281, 2247709.593324328)",9002-13,Media Luna,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,166.36982210499343,1215.5126914825573
+
+583,"(4720558.841066509, 2247692.593662174)",0817-19,La Sierra,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,45.25594035081282,40.79576036293868
+
+584,"(4720576.415810615, 2247689.6172516495)",9002-14,Media Luna,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,17.294392377548718,9.564164032286532
+
+585,"(4707092.177216636, 2253341.502667572)",6016-4,Traves�as,Con condiciones de riesgo,Zona con condiciones de riesgo por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona con condiciones de riesgo,435.51178465762746,12943.792134078556
+
+586,"(4720584.508052984, 2247600.8454029188)",0817-22,La Sierra,Alto riesgo mitigable,Zona de alto riesgo mitigable por movimientos en masa,Movimientos en masa,,,272.1092244298555,1314.2628714703783
+
+587,"(4720607.942764997, 2247634.5045179767)",0817-21,La Sierra,Riesgo bajo,Zona de riesgo bajo por movimientos en masa,Movimientos en masa,,,293.7089318406658,1332.657271403528
+
+588,"(4720588.738873328, 2247588.610200118)",0817-23,La Sierra,Riesgo medio,Zona de riesgo medio por movimientos en masa,Movimientos en masa,,,153.61930725240592,414.3575363349377
+
+589,"(4720694.8411538005, 2247460.016819774)",9002-18,Media Luna,Alto riesgo no mitigable,Zona de alto riesgo no mitigable por movimientos en masa,Movimientos en masa,�reas de Amenaza y Riesgo,Zona de riesgo no mitigable,107.70033061038093,300.2834364954877
+
+,,Bajo,

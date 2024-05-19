@@ -1,0 +1,486 @@
+﻿OBJECTID;Shape;CODIGO_TRATAMIENTO;NOMBRE;CLASE_SUELO;CATEGORIA_SUELO;CATDLLORESTRING;Shape_Length;Shape_Area
+;;;;;;;;
+1;(830585.2444075875, 1185321.4185251584);Z4_DE_1;Altos de Calasanz;Expansion Urbana;Expansion para el Desarrollo;N/A;5,04354E+15;7,29195E+15
+;;;;;;;;
+2;(828154.4582608435, 1180084.1932756465);N/A;Cabecera Altavista;Urbano;N/A;N/A;8,20349E+15;4,26954E+15
+;;;;;;;;
+3;(826214.4184676112, 1175418.7320215693);N/A;Cabecera San Antonio;Urbano;N/A;N/A;1,66923E+15;3,99062E+16
+;;;;;;;;
+4;(828345.7240369132, 1185631.9336013137);N/A;Cabecera San Cristobal;Urbano;N/A;N/A;1,48077E+15;3,47368E+15
+;;;;;;;;
+5;(828240.7247434508, 1184438.6829906183);Z4_DE_7;Eduardo Santos;Expansion Urbana;Expansion para el Desarrollo;N/A;1,86713E+15;5,09971E+15
+;;;;;;;;
+6;(829658.00913355, 1181892.1488810012);Z6_DE_2;El Noral;Expansion Urbana;Expansion para el Desarrollo;N/A;3,06504E+15;3,21283E+16
+;;;;;;;;
+7;(829457.9291324124, 1181365.5455008694);Z6_DE_3;Las Mercedes;Expansion Urbana;Expansion para el Desarrollo;N/A;1,75741E+16;1,57999E+16
+;;;;;;;;
+8;(838324.8188724212, 1183692.0753453095);Z3_MIE_3;Llanaditas;Expansion Urbana;Expansion para el Mejoramiento;N/A;1,16717E+16;4,09198E+15
+;;;;;;;;
+9;(838287.6379864925, 1186482.7974474274);Z1_MIE_1;Maria Cano Carambolas;Expansion Urbana;Expansion para el Mejoramiento;N/A;7,77716E+15;2,75374E+16
+;;;;;;;;
+10;(838171.274381861, 1182362.8014100988);Z3_MIE_4;Trece de Noviembre_Pinares de Oriente;Expansion Urbana;Expansion para el Mejoramiento;N/A;3,55209E+16;6,23194E+15
+;;;;;;;;
+11;(838391.0675365119, 1184836.2298722346);Z1_MIE_2;Versalles 2;Expansion Urbana;Expansion para el Mejoramiento;N/A;1,00175E+16;3,45337E+15
+;;;;;;;;
+12;(820415.8290484414, 1193815.6049584497);PA-CNS3-01;Aldea 2;Rural;Suburbano;Suelos suburbanos propiamente dichos;4,80904E+15;5,10289E+15
+;;;;;;;;
+13;(824782.9193627457, 1175211.4085850287);SAP-CNS2-04;La Florida;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,97016E+16;2,05055E+16
+;;;;;;;;
+14;(825774.1656651327, 1185671.2958621203);SC-CNS2-02;La Palma;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,95152E+16;1,92964E+16
+;;;;;;;;
+15;(837465.1151780174, 1178960.3336201694);SE-CNS1-01;Mirador del Poblado;Rural;Suburbano;Áreas para la localizacion de equipamientos;4,78814E+16;1,02294E+16
+;;;;;;;;
+16;(837993.7593000799, 1175369.59290431);SE-CNS1-03;Chacaltaya;Rural;Suburbano;Áreas destinadas a la parcelacion de vivienda campestre;4,28494E+15;4,86787E+15
+;;;;;;;;
+17;(842337.6101158675, 1186161.584561295);SE-CNS2-09;Piedras Blancas;Rural;Suburbano;Suelos suburbanos propiamente dichos;3,19573E+16;2,40447E+16
+;;;;;;;;
+18;(841544.8000426417, 1178093.000368141);SE-CNS3-08;El Llano, Plan;Rural;Suburbano;Suelos suburbanos propiamente dichos;1,71672E+16;1,57773E+15
+;;;;;;;;
+19;(842077.0888656531, 1177403.664835607);SE-CNS2-06;El Llano;Rural;Suburbano;Suelos suburbanos propiamente dichos;6,24965E+15;7,47606E+15
+;;;;;;;;
+20;(841836.4126693888, 1183321.1474541428);SE-CNS3-09;Mazo, Los Vásquez;Rural;Suburbano;Centros poblados rurales;9,06878E+15;3,73747E+15
+;;;;;;;;
+21;(842120.3692383834, 1185127.3420783621);SE-CNS3-11;Piedras Blancas, Chorro Clarín;Rural;Suburbano;Suelos suburbanos propiamente dichos;2,47985E+15;1,94157E+16
+;;;;;;;;
+22;(828387.9721022692, 1182556.8704988863);AL-CNS3-05;Corazon El Morro;Rural;Suburbano;Áreas para la localizacion de equipamientos;6,89037E+15;2,74196E+15
+;;;;;;;;
+23;(827382.4962639017, 1182834.8989753223);AL-CNS3-05;Corazon El Morro;Rural;Suburbano;Áreas para la localizacion de equipamientos;4,81204E+15;1,22754E+16
+;;;;;;;;
+24;(827885.948074649, 1183106.8407443017);AL-CNS3-05;Corazon El Morro;Rural;Suburbano;Áreas para la localizacion de equipamientos;4,29251E+15;8,64351E+15
+;;;;;;;;
+25;(827322.221163655, 1183225.4200032651);AL-CNS3-05;Corazon El Morro;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,78976E+16;3,58637E+15
+;;;;;;;;
+26;(827799.3483283457, 1182886.6435423815);AL-CNS3-05;Corazon El Morro;Rural;Suburbano;Centros poblados rurales;8,35271E+15;5,41386E+15
+;;;;;;;;
+27;(827393.2454062407, 1181263.0955505918);AL-CNS3-06;Aguas Frías, San Pablo;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,17399E+16;2,70102E+14
+;;;;;;;;
+28;(827803.2802599759, 1181360.3881326998);AL-CNS3-06;Aguas Frías, San Pablo;Rural;Suburbano;Áreas para la localizacion de equipamientos;5,26617E+15;1,72025E+16
+;;;;;;;;
+29;(828823.0095167386, 1181364.0182034576);AL-CNS3-06;Aguas Frías, San Pablo;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,11749E+15;1,9262E+16
+;;;;;;;;
+30;(828572.891025861, 1181373.021626306);AL-CNS3-06;Aguas Frías, San Pablo;Rural;Suburbano;Áreas para la localizacion de equipamientos;3,83362E+13;6,24151E+15
+;;;;;;;;
+31;(827973.302448695, 1181299.977359193);AL-CNS3-06;Aguas Frías, San Pablo;Rural;Suburbano;Centros poblados rurales;7,22227E+15;4,93028E+15
+;;;;;;;;
+32;(829961.7597118509, 1178293.7912525032);AL-CNS3-07;San José de Manzanillo;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,70202E+15;4,3262E+15
+;;;;;;;;
+33;(829914.3732989227, 1178330.6438767393);AL-CNS3-07;San José de Manzanillo;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,59816E+16;1,47128E+15
+;;;;;;;;
+34;(830364.5062731503, 1178433.9668994595);AL-CNS3-07;San José de Manzanillo;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,01796E+16;2,46131E+15
+;;;;;;;;
+35;(829649.863689758, 1178190.4783156065);AL-CNS3-07;San José de Manzanillo;Rural;Suburbano;Centros poblados rurales;6,29788E+15;6,42398E+13
+;;;;;;;;
+36;(826463.6575151915, 1179838.3819808548);AL-MI-02;Buga Patio Bonito;Rural;Suburbano;Áreas para la localizacion de equipamientos;7,06139E+15;3,00938E+14
+;;;;;;;;
+37;(827029.7083582759, 1179866.6615317925);AL-MI-02;Buga Patio Bonito;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,19003E+16;1,83645E+16
+;;;;;;;;
+38;(826684.5611129745, 1179875.3136893592);AL-MI-02;Buga Patio Bonito;Rural;Suburbano;Centros poblados rurales;2,45261E+16;7,26032E+15
+;;;;;;;;
+39;(825465.2715717757, 1174792.6403950476);SA_DE_5;La Florida;Expansion Urbana;Expansion para el Desarrollo;N/A;3,62584E+16;2,64167E+16
+;;;;;;;;
+40;(825664.9343332911, 1175355.039282103);SA_DE_4;La Florida;Expansion Urbana;Expansion para el Desarrollo;N/A;2,83747E+15;1,20339E+16
+;;;;;;;;
+41;(824607.235075636, 1175165.2192429497);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,03018E+16;6,25746E+16
+;;;;;;;;
+42;(837243.8199749353, 1175248.8837090505);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;7,86764E+15;3,30275E+16
+;;;;;;;;
+43;(824592.0155276043, 1175882.299874454);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,65092E+16;1,09723E+16
+;;;;;;;;
+44;(825790.4539594657, 1176509.3201064048);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,30997E+16;7,52468E+15
+;;;;;;;;
+45;(842221.832868953, 1176483.932622131);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,25501E+16;5,43764E+14
+;;;;;;;;
+46;(837476.2937888897, 1176427.6619805016);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,54953E+16;9,21696E+15
+;;;;;;;;
+47;(824850.3084200076, 1177016.0508845043);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;7,84297E+15;3,38823E+15
+;;;;;;;;
+48;(823979.173782533, 1177214.1729227386);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,92851E+16;2,0238E+16
+;;;;;;;;
+49;(844418.0662124637, 1177301.2748818716);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,15771E+16;6,29735E+15
+;;;;;;;;
+50;(837426.0265353268, 1177859.2275593732);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,61229E+15;1,62831E+16
+;;;;;;;;
+51;(828556.828274266, 1178332.6245192848);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;5,91785E+15;1,22765E+16
+;;;;;;;;
+52;(843355.6571704904, 1178343.982203473);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;8,89569E+15;3,55961E+15
+;;;;;;;;
+53;(837380.3721572375, 1178281.4595083827);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,76286E+15;8,55191E+15
+;;;;;;;;
+54;(837428.543240505, 1178580.309091022);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;5,4018E+15;1,27906E+15
+;;;;;;;;
+55;(823618.4038643984, 1178807.7064777582);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,84204E+16;2,08391E+16
+;;;;;;;;
+56;(837451.606321419, 1178816.8398769866);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,05887E+16;1,11759E+15
+;;;;;;;;
+57;(823719.2474608067, 1178917.5820229158);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;9,28856E+15;5,03715E+15
+;;;;;;;;
+58;(842440.5638383552, 1178909.818180643);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,22004E+16;2,95662E+15
+;;;;;;;;
+59;(841823.4588451715, 1178266.3856735807);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,06312E+16;1,3968E+16
+;;;;;;;;
+60;(842623.0931580883, 1178872.2848958324);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,66488E+16;7,43908E+15
+;;;;;;;;
+61;(827510.6311719071, 1179411.617029812);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,29303E+16;6,6197E+15
+;;;;;;;;
+62;(842272.678353627, 1179593.068448417);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;6,79413E+15;2,02296E+16
+;;;;;;;;
+63;(827467.4853248488, 1179732.8719609948);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;8,71851E+15;3,88038E+15
+;;;;;;;;
+64;(843523.5678617134, 1179782.1262286187);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;8,71755E+15;1,41267E+16
+;;;;;;;;
+65;(828993.5273423906, 1179921.5338051396);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;7,75708E+15;5,94547E+16
+;;;;;;;;
+66;(842315.3728301431, 1179893.6183806553);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,94662E+14;8,16574E+15
+;;;;;;;;
+67;(827562.6722820518, 1180012.7155548807);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,72296E+16;1,51967E+16
+;;;;;;;;
+68;(828689.8965367319, 1180326.2468648532);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;6,62144E+15;2,40336E+14
+;;;;;;;;
+69;(837486.9067103451, 1179656.3318593116);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;9,88987E+15;1,99319E+16
+;;;;;;;;
+70;(830425.1267261555, 1180545.1649667867);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,47573E+16;1,14915E+15
+;;;;;;;;
+71;(840742.8934430601, 1180589.1080208179);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,07223E+16;5,80487E+15
+;;;;;;;;
+72;(838710.4334456633, 1180475.5528685);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,66888E+15;1,45216E+16
+;;;;;;;;
+73;(837036.5520266813, 1180772.0946456785);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;9,13518E+15;3,17996E+16
+;;;;;;;;
+74;(827263.4764538642, 1181086.3153470906);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;7,96579E+15;2,46378E+16
+;;;;;;;;
+75;(826623.7724040839, 1181161.2278312969);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,10272E+12;4,0987E+15
+;;;;;;;;
+76;(821085.2039773345, 1181265.4788392638);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,6922E+15;2,95686E+15
+;;;;;;;;
+77;(839769.3992222461, 1181565.6112327217);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;8,80007E+15;3,57923E+16
+;;;;;;;;
+78;(825453.6517869128, 1181572.7188813547);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,15845E+16;2,79505E+16
+;;;;;;;;
+79;(827020.7220479706, 1181510.0066852234);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,13219E+15;4,31508E+15
+;;;;;;;;
+80;(840599.9068739474, 1181844.0286637007);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,10881E+15;3,28326E+16
+;;;;;;;;
+81;(824084.3777235578, 1181985.772883217);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,05396E+16;2,60309E+16
+;;;;;;;;
+82;(844254.0198557905, 1182100.305165322);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,2798E+16;1,10479E+16
+;;;;;;;;
+83;(828489.8158459957, 1181760.915287257);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,51197E+16;3,25014E+15
+;;;;;;;;
+84;(844256.8369999999, 1182137.33615);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,03996E+16;2,55191E+16
+;;;;;;;;
+85;(839696.6452411141, 1181888.4893219664);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,34816E+15;3,81816E+16
+;;;;;;;;
+86;(841106.5574154097, 1182416.8614445985);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,52105E+15;9,86273E+14
+;;;;;;;;
+87;(828969.9699163411, 1182466.2780208888);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,35004E+16;3,3672E+16
+;;;;;;;;
+88;(838143.3700729334, 1182699.8896507495);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,98942E+15;1,08482E+16
+;;;;;;;;
+89;(827337.9367453648, 1182733.6796344821);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,92373E+16;1,13758E+16
+;;;;;;;;
+90;(838118.541127702, 1184148.261413496);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,10714E+16;1,86696E+15
+;;;;;;;;
+91;(841996.4915999466, 1184235.925176668);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,4812E+16;1,00546E+16
+;;;;;;;;
+92;(828102.6752235824, 1184461.2749099934);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,11914E+16;6,99103E+15
+;;;;;;;;
+93;(824778.2533018669, 1185025.6710362046);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,16217E+16;1,08336E+16
+;;;;;;;;
+94;(827209.0089522175, 1185362.7839988314);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,5357E+16;9,14192E+15
+;;;;;;;;
+95;(826578.6176460653, 1185808.7528567074);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,38767E+15;3,48476E+16
+;;;;;;;;
+96;(843229.6405371478, 1185883.1706020022);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,36358E+16;7,86219E+14
+;;;;;;;;
+97;(825960.2956997643, 1186100.229323504);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,53657E+15;1,50194E+15
+;;;;;;;;
+98;(842980.3675679418, 1186144.653943357);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,72041E+16;1,74149E+16
+;;;;;;;;
+99;(842977.6285036331, 1186194.1495373524);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,92963E+16;4,23609E+15
+;;;;;;;;
+100;(842897.0149920948, 1186219.7268481767);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,12186E+16;7,64201E+15
+;;;;;;;;
+101;(821928.4220160859, 1186437.629481765);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,60429E+16;8,18284E+14
+;;;;;;;;
+102;(838399.4023478144, 1186525.5942831973);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,30882E+15;1,30157E+16
+;;;;;;;;
+103;(842437.4591891245, 1186587.129458719);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,1401E+16;2,89981E+15
+;;;;;;;;
+104;(827534.1806693267, 1186594.8899383098);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;8,27421E+15;3,1257E+15
+;;;;;;;;
+105;(841088.000787424, 1186554.1557657372);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;9,96525E+15;3,61295E+15
+;;;;;;;;
+106;(838803.2241539389, 1186712.9706058237);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;5,70762E+15;1,20788E+15
+;;;;;;;;
+107;(826969.7536537704, 1186905.8794780907);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,43355E+16;1,11064E+16
+;;;;;;;;
+108;(826773.2283633082, 1187119.343672122);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,82004E+16;7,99788E+15
+;;;;;;;;
+109;(826923.4208166027, 1187159.8206840393);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;5,37533E+14;1,15456E+15
+;;;;;;;;
+110;(825563.8704370923, 1187373.2556470793);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,1384E+15;9,24553E+15
+;;;;;;;;
+111;(838501.9030861323, 1187429.6440139022);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,3452E+16;4,60223E+15
+;;;;;;;;
+112;(826857.4698083623, 1187504.8683724857);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,23549E+16;5,57372E+15
+;;;;;;;;
+113;(826156.7705248905, 1187651.9192790007);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,6663E+15;2,39787E+14
+;;;;;;;;
+114;(825430.1511349059, 1188032.1989808364);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,71696E+16;1,75099E+16
+;;;;;;;;
+115;(830324.5289834329, 1188059.1172145624);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;9,1419E+15;4,53188E+15
+;;;;;;;;
+116;(830546.5317137637, 1188244.2279705375);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;7,17006E+15;2,68647E+15
+;;;;;;;;
+117;(830687.3507029394, 1188252.931879992);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,43187E+16;1,46721E+16
+;;;;;;;;
+118;(832385.7566459912, 1188222.9183548763);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;7,10906E+15;3,07349E+15
+;;;;;;;;
+119;(831084.8925704596, 1188302.6136724544);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;5,11363E+14;1,27558E+16
+;;;;;;;;
+120;(832774.2331791702, 1188308.4827969074);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;7,43765E+15;3,48985E+16
+;;;;;;;;
+121;(831543.9406886947, 1188083.908267513);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,45072E+16;1,6778E+15
+;;;;;;;;
+122;(827943.7415818201, 1188548.4826732783);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,91582E+15;1,3376E+16
+;;;;;;;;
+123;(825228.0953716739, 1188833.4288304462);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;9,74561E+15;5,22315E+15
+;;;;;;;;
+124;(829441.9159279963, 1188897.9163589964);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,67886E+16;1,38899E+16
+;;;;;;;;
+125;(829499.4477678146, 1188933.75758226);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,15984E+15;4,67968E+15
+;;;;;;;;
+126;(827092.8772512279, 1189050.3699442844);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;5,39851E+15;1,03327E+16
+;;;;;;;;
+127;(832088.2107746926, 1189109.545523557);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,39957E+16;2,8865E+16
+;;;;;;;;
+128;(832933.9027525678, 1189441.0653947312);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;4,85243E+16;7,89479E+15
+;;;;;;;;
+129;(830880.2985979536, 1189788.2834062758);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;8,43874E+15;3,62447E+16
+;;;;;;;;
+130;(825105.7449640029, 1190339.2059184862);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,93464E+16;2,29208E+15
+;;;;;;;;
+131;(819912.3654369252, 1190947.1249715325);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,70032E+15;3,00422E+16
+;;;;;;;;
+132;(820603.3162045974, 1192034.5429888093);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;3,60427E+15;7,01258E+14
+;;;;;;;;
+133;(821133.479692717, 1192312.7339291528);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;5,14527E+16;1,46128E+16
+;;;;;;;;
+134;(821085.6518611558, 1192300.7704047144);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,60114E+15;4,11635E+15
+;;;;;;;;
+135;(821881.7266723767, 1193334.4287490216);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,27127E+16;1,02237E+16
+;;;;;;;;
+136;(822131.9328375275, 1193637.8155868012);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;6,9581E+15;2,32773E+16
+;;;;;;;;
+137;(818976.555615036, 1193784.1963330514);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,87524E+16;4,18991E+11
+;;;;;;;;
+138;(820446.3529375334, 1194903.502527915);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;1,05939E+16;6,38381E+15
+;;;;;;;;
+139;(819047.0765432726, 1194898.0315115189);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;2,44695E+15;2,60057E+16
+;;;;;;;;
+140;(820267.5752788405, 1196317.7098401866);N/A;;Rural;N/A;Áreas para la localizacion de equipamientos;8,60037E+14;4,19112E+15
+;;;;;;;;
+141;(824622.1816210882, 1175289.914353445);N/A;;Rural;N/A;N/A;1,60159E+16;3,67474E+16
+;;;;;;;;
+142;(841866.7862182534, 1177596.7995681434);N/A;;Rural;N/A;N/A;2,4233E+16;2,42344E+16
+;;;;;;;;
+143;(841541.4957572256, 1177684.545510491);N/A;;Rural;N/A;N/A;6,09986E+15;2,23251E+15
+;;;;;;;;
+144;(841822.6314842078, 1178668.9980717606);N/A;;Rural;N/A;N/A;1,7606E+16;1,83974E+16
+;;;;;;;;
+145;(836116.3895423724, 1179911.0719669021);N/A;;Rural;N/A;N/A;2,07856E+15;4,58623E+15
+;;;;;;;;
+146;(836889.2001900872, 1180489.5724465563);N/A;;Rural;N/A;N/A;4,0143E+16;2,34713E+16
+;;;;;;;;
+147;(836988.3773952828, 1180827.7737214388);N/A;;Rural;N/A;N/A;1,7851E+15;9,07918E+15
+;;;;;;;;
+148;(837976.7546220785, 1183931.1024732532);N/A;;Rural;N/A;N/A;1,0477E+16;3,46714E+15
+;;;;;;;;
+149;(828682.3641852482, 1184310.516874947);N/A;;Rural;N/A;N/A;2,33996E+16;1,82434E+16
+;;;;;;;;
+150;(831725.7718124796, 1187846.099615049);N/A;;Rural;N/A;N/A;2,42383E+16;3,93108E+16
+;;;;;;;;
+151;(840832.4148246408, 1181878.6298387838);N/A;;Rural;N/A;N/A;1,331E+16;6,09453E+15
+;;;;;;;;
+152;(824127.1662193611, 1185546.1206458253);N/A;;Rural;N/A;N/A;1,80974E+16;1,80126E+15
+;;;;;;;;
+153;(834084.0515703148, 1183086.5976597555);N/A;;Urbano;N/A;N/A;9,13475E+15;1,03714E+16
+;;;;;;;;
+154;(821757.0356566655, 1193403.724855337);PA-CNS1-05;Palmitas Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,59784E+16;3,54242E+15
+;;;;;;;;
+155;(821467.6575992908, 1193410.3867547945);PA-CNS1-05;Palmitas Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,07417E+16;2,04631E+16
+;;;;;;;;
+156;(821718.5217929457, 1193453.1671584058);PA-CNS1-05;Palmitas Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,38595E+16;3,10785E+15
+;;;;;;;;
+157;(821393.6699452274, 1193522.0197770696);PA-CNS1-05;Palmitas Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;6,12725E+15;1,93102E+16
+;;;;;;;;
+158;(821380.5549591781, 1193615.192146908);PA-CNS1-05;Palmitas Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;5,36246E+15;1,1199E+16
+;;;;;;;;
+159;(821338.7085656361, 1193672.3285342287);PA-CNS1-05;Palmitas Central;Rural;Suburbano;Centros poblados rurales;2,38962E+15;3,08341E+15
+;;;;;;;;
+160;(821487.0487970797, 1193487.9173541467);PA-CNS1-05;Palmitas Central;Rural;Suburbano;Centros poblados rurales;3,16821E+16;1,55566E+15
+;;;;;;;;
+161;(820350.5324700178, 1193202.9155355883);PA-CNS4-01;Aldea;Rural;Suburbano;Áreas para la localizacion de equipamientos;6,25951E+15;1,65022E+16
+;;;;;;;;
+162;(820007.7829925081, 1193317.226927065);PA-CNS4-01;Aldea;Rural;Suburbano;Áreas para la localizacion de equipamientos;6,44563E+15;2,23758E+16
+;;;;;;;;
+163;(819982.6708608466, 1193312.002890773);PA-CNS4-01;Aldea;Rural;Suburbano;Áreas para la localizacion de equipamientos;9,8976E+15;4,99806E+16
+;;;;;;;;
+164;(819981.4830718383, 1193351.844551175);PA-CNS4-01;Aldea;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,25154E+16;8,02594E+15
+;;;;;;;;
+165;(820138.2860420397, 1193357.0863167834);PA-CNS4-01;Aldea;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,05894E+15;7,62872E+15
+;;;;;;;;
+166;(820175.6477935604, 1193266.0878434672);PA-CNS4-01;Aldea;Rural;Suburbano;Suelos suburbanos propiamente dichos;5,29615E+15;6,36241E+15
+;;;;;;;;
+167;(820529.9755315437, 1195902.309067859);PA-MI-01;Urquitá;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,21652E+16;9,48201E+15
+;;;;;;;;
+168;(820515.4477647444, 1195957.9729764645);PA-MI-01;Urquitá;Rural;Suburbano;Áreas para la localizacion de equipamientos;4,29982E+15;8,24957E+15
+;;;;;;;;
+169;(820611.4436302067, 1195902.4648403556);PA-MI-01;Urquitá;Rural;Suburbano;Centros poblados rurales;1,77859E+16;1,11472E+15
+;;;;;;;;
+170;(823998.5012230957, 1175686.7110156617);SAP-CNS2-03;Potrerito;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,23075E+16;6,0913E+15
+;;;;;;;;
+171;(824124.9806410883, 1175733.937428374);SAP-CNS2-03;Potrerito;Rural;Suburbano;Áreas para la localizacion de equipamientos;9,59263E+14;5,34657E+15
+;;;;;;;;
+172;(823944.1390584105, 1175647.7443458065);SAP-CNS2-03;Potrerito;Rural;Suburbano;Centros poblados rurales;3,47907E+15;3,00979E+16
+;;;;;;;;
+173;(825019.1772642963, 1175268.9910344353);SAP-CNS2-04;La Florida;Rural;Suburbano;Centros poblados rurales;4,68042E+15;3,62222E+16
+;;;;;;;;
+174;(828060.9113339434, 1186791.1640867027);SC-API-13;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,01321E+16;4,22629E+15
+;;;;;;;;
+175;(828480.9264006414, 1187309.5658031763);SC-API-13;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,9573E+15;4,73552E+15
+;;;;;;;;
+176;(828489.4432799153, 1186970.4509616948);SC-API-13;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,96042E+15;2,14783E+16
+;;;;;;;;
+177;(828463.3425687813, 1187419.5548432798);SC-API-13;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,09219E+16;1,87081E+16
+;;;;;;;;
+178;(828950.6602489941, 1187271.6759138042);SC-API-13;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,45183E+16;6,89601E+15
+;;;;;;;;
+179;(828380.6717049154, 1187411.469743672);SC-API-13;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;5,71792E+15;1,63192E+16
+;;;;;;;;
+180;(828057.88408585, 1186621.7122146746);SC-API-13;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;1,44133E+16;1,82243E+16
+;;;;;;;;
+181;(828694.0191751147, 1186902.684835685);SC-API-13;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;1,17669E+15;2,78514E+16
+;;;;;;;;
+182;(828694.2130748298, 1186951.0413313257);SC-API-13;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;9,70569E+15;2,27178E+16
+;;;;;;;;
+183;(828235.3841660605, 1186870.2345639362);SC-API-13;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;2,23676E+16;5,18266E+15
+;;;;;;;;
+184;(828343.1597243103, 1187225.983719842);SC-API-13;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;3,31289E+15;3,83932E+16
+;;;;;;;;
+185;(828744.5685127043, 1187186.5801804538);SC-API-13;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;2,60914E+16;3,65279E+15
+;;;;;;;;
+186;(828475.0905088697, 1187346.1215706521);SC-API-13;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;6,76034E+14;1,76313E+16
+;;;;;;;;
+187;(825975.4769976, 1188073.6896714708);SC-CNS2-01;El Llano;Rural;Suburbano;Áreas para la localizacion de equipamientos;3,25169E+16;3,10557E+16
+;;;;;;;;
+188;(826141.9273216347, 1188320.7249037237);SC-CNS2-01;El Llano;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,27382E+14;2,23765E+16
+;;;;;;;;
+189;(826103.0934685755, 1188078.9489346787);SC-CNS2-01;El Llano;Rural;Suburbano;Centros poblados rurales;3,1738E+16;2,42264E+15
+;;;;;;;;
+190;(825910.1920620346, 1185698.7976228108);SC-CNS2-02;La Palma;Rural;Suburbano;Centros poblados rurales;5,06789E+15;3,31095E+15
+;;;;;;;;
+191;(828368.8795028895, 1187467.0849869747);SC-CNS3-02;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,1338E+15;7,75885E+15
+;;;;;;;;
+192;(828065.4605076488, 1187977.296567664);SC-CNS3-02;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;7,58642E+15;2,98055E+16
+;;;;;;;;
+193;(828141.6502923579, 1188059.197067684);SC-CNS3-02;Pedregal Alto;Rural;Suburbano;Centros poblados rurales;2,39672E+16;2,91238E+15
+;;;;;;;;
+194;(828216.9107070009, 1187431.0137260766);SC-CNS3-02;Pedregal Alto;Rural;Suburbano;Centros poblados rurales;5,68419E+15;3,33236E+16
+;;;;;;;;
+195;(830375.5356872608, 1187337.7411779107);SC-CNS3-03;Pajarito;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,84174E+15;1,92032E+16
+;;;;;;;;
+196;(830406.6805384561, 1187348.4359755204);SC-CNS3-03;Pajarito;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,35933E+16;1,7331E+16
+;;;;;;;;
+197;(830502.3153421269, 1187367.342962034);SC-CNS3-03;Pajarito;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,79972E+16;2,07418E+15
+;;;;;;;;
+198;(830362.1656010108, 1187482.561761124);SC-CNS3-03;Pajarito;Rural;Suburbano;Centros poblados rurales;5,03198E+15;3,57112E+16
+;;;;;;;;
+199;(828175.7729025929, 1185046.5181253816);SC-CNS3-04;La Loma;Rural;Suburbano;Áreas para la localizacion de equipamientos;9,35775E+15;5,38258E+14
+;;;;;;;;
+200;(828126.3340195074, 1185203.5091927552);SC-CNS3-04;La Loma;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,16204E+16;7,86373E+15
+;;;;;;;;
+201;(827824.0420471468, 1185274.538768899);SC-CNS3-04;La Loma;Rural;Suburbano;Centros poblados rurales;3,95453E+15;2,49435E+16
+;;;;;;;;
+202;(826653.1246131854, 1185896.3774774575);SC-CNS4-02;Conexion Aburrá Cauca;Rural;Suburbano;Áreas para la localizacion de equipamientos;6,48714E+15;1,61502E+16
+;;;;;;;;
+203;(825958.5525185544, 1186968.7399995052);SC-CNS4-02;Conexion Aburrá Cauca;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,39703E+16;3,45255E+15
+;;;;;;;;
+204;(826148.181696867, 1187543.1639541434);SC-CNS4-02;Conexion Aburrá Cauca;Rural;Suburbano;Áreas para la localizacion de equipamientos;6,18005E+15;4,63697E+15
+;;;;;;;;
+205;(826167.2259250502, 1187528.9840940598);SC-CNS4-02;Conexion Aburrá Cauca;Rural;Suburbano;Suelos suburbanos propiamente dichos;1,23159E+16;5,14535E+15
+;;;;;;;;
+206;(826214.0413392959, 1186933.6796548883);SC-CNS4-02;Conexion Aburrá Cauca;Rural;Suburbano;Suelos suburbanos propiamente dichos;9,01204E+14;1,11417E+16
+;;;;;;;;
+207;(828156.2543781115, 1186655.4612516956);SC-CNS4-03;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;4,94523E+16;1,26569E+16
+;;;;;;;;
+208;(827748.2310417233, 1186555.8491095472);SC-CNS4-03;Pedregal Alto;Rural;Suburbano;Áreas para la localizacion de equipamientos;9,01505E+14;3,05912E+16
+;;;;;;;;
+209;(828210.8414689772, 1186681.814868472);SC-CNS4-03;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;1,16939E+16;6,28601E+15
+;;;;;;;;
+210;(828314.9544289759, 1186669.9271265087);SC-CNS4-03;Pedregal Alto;Rural;Suburbano;Suelos suburbanos propiamente dichos;6,38984E+14;4,842E+15
+;;;;;;;;
+211;(837186.8515657312, 1179417.6821316392);SE-CNS1-01;Mirador del Poblado;Rural;Suburbano;Áreas destinadas a la parcelacion de vivienda campestre;5,27676E+14;7,6529E+15
+;;;;;;;;
+212;(836458.7524093267, 1175386.8813507475);SE-CNS1-02;El Tesoro;Rural;Suburbano;Áreas destinadas a la parcelacion de vivienda campestre;5,98737E+15;5,86404E+15
+;;;;;;;;
+213;(836707.2326174033, 1175425.2360572955);SE-CNS1-02;El Tesoro;Rural;Suburbano;Áreas para la localizacion de equipamientos;3,31543E+15;6,49983E+15
+;;;;;;;;
+214;(836306.2062627183, 1175861.497245422);SE-CNS1-02;El Tesoro;Rural;Suburbano;Áreas para la localizacion de equipamientos;5,1124E+15;1,13465E+15
+;;;;;;;;
+215;(842842.5867961184, 1178607.238901116);SE-CNS1-04;Santa Elena, Sector Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,35857E+16;1,00378E+16
+;;;;;;;;
+216;(842857.1490614328, 1178640.6673112607);SE-CNS1-04;Santa Elena, Sector Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;3,83929E+15;9,17588E+15
+;;;;;;;;
+217;(842783.2107605903, 1178634.3399459182);SE-CNS1-04;Santa Elena, Sector Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,28082E+15;7,75108E+15
+;;;;;;;;
+218;(842827.2291898429, 1178659.5084893184);SE-CNS1-04;Santa Elena, Sector Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,28451E+15;5,05678E+16
+;;;;;;;;
+219;(842904.1667078002, 1178787.1190286176);SE-CNS1-04;Santa Elena, Sector Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,49972E+16;1,02159E+16
+;;;;;;;;
+220;(842850.1024510278, 1178796.9275033143);SE-CNS1-04;Santa Elena, Sector Central;Rural;Suburbano;Áreas para la localizacion de equipamientos;9,03102E+15;1,78738E+15
+;;;;;;;;
+221;(842412.0359507442, 1178766.4559422743);SE-CNS1-04;Santa Elena, Sector Central;Rural;Suburbano;Centros poblados rurales;5,82853E+15;3,3566E+16
+;;;;;;;;
+222;(840699.0072768957, 1178162.9455251333);SE-CNS2-05;El Plan;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,48386E+16;2,83024E+16
+;;;;;;;;
+223;(840714.5460879785, 1178275.5503994226);SE-CNS2-05;El Plan;Rural;Suburbano;Áreas para la localizacion de equipamientos;8,21494E+15;3,83002E+16
+;;;;;;;;
+224;(840375.6915080621, 1178136.8559391953);SE-CNS2-05;El Plan;Rural;Suburbano;Suelos suburbanos propiamente dichos;1,28919E+16;1,83567E+16
+;;;;;;;;
+225;(843543.3694785272, 1177598.039959982);SE-CNS2-07;El Cerro;Rural;Suburbano;Áreas para la localizacion de equipamientos;3,41642E+15;7,07096E+14
+;;;;;;;;
+226;(843583.3303948177, 1177776.3970307447);SE-CNS2-07;El Cerro;Rural;Suburbano;Áreas para la localizacion de equipamientos;4,07866E+16;7,45324E+15
+;;;;;;;;
+227;(843386.3025955658, 1177798.8339114075);SE-CNS2-07;El Cerro;Rural;Suburbano;Suelos suburbanos propiamente dichos;2,31807E+15;1,90754E+16
+;;;;;;;;
+228;(843619.5207156708, 1180399.8028362785);SE-CNS2-08;El Placer;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,45734E+16;1,04908E+16
+;;;;;;;;
+229;(843554.8946834175, 1180412.2976947185);SE-CNS2-08;El Placer;Rural;Suburbano;Áreas para la localizacion de equipamientos;3,61132E+16;6,82424E+15
+;;;;;;;;
+230;(843078.3217415047, 1181312.331320833);SE-CNS2-08;El Placer;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,10059E+15;7,03354E+15
+;;;;;;;;
+231;(843095.678778898, 1181472.6159797742);SE-CNS2-08;El Placer;Rural;Suburbano;Áreas para la localizacion de equipamientos;8,92148E+15;2,16235E+15
+;;;;;;;;
+232;(842719.7865929476, 1181610.824062357);SE-CNS2-08;El Placer;Rural;Suburbano;Áreas para la localizacion de equipamientos;2,48332E+16;2,72609E+15
+;;;;;;;;
+233;(842939.2974494135, 1180991.864450332);SE-CNS2-08;El Placer;Rural;Suburbano;Suelos suburbanos propiamente dichos;9,37437E+15;1,59446E+16
+;;;;;;;;
+234;(844778.268371452, 1181135.4334583275);SE-CNS3-10;Barro Blanco;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,64934E+16;1,66188E+16
+;;;;;;;;
+235;(845020.8277604213, 1181514.9944850316);SE-CNS3-10;Barro Blanco;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,16777E+16;7,30215E+15
+;;;;;;;;
+236;(845038.7233709841, 1181537.1088383202);SE-CNS3-10;Barro Blanco;Rural;Suburbano;Centros poblados rurales;5,30129E+15;3,00892E+16
+;;;;;;;;
+237;(842545.2996597647, 1183296.2974733107);SE-CNS4-04;Mazo;Rural;Suburbano;Áreas para la localizacion de equipamientos;4,43857E+15;9,92365E+14
+;;;;;;;;
+238;(842612.9811568442, 1183335.8535184914);SE-CNS4-04;Mazo;Rural;Suburbano;Áreas para la localizacion de equipamientos;3,74446E+14;5,90355E+16
+;;;;;;;;
+239;(842464.9962518292, 1183652.4987605046);SE-CNS4-04;Mazo;Rural;Suburbano;Áreas para la localizacion de equipamientos;1,33752E+16;9,44044E+15
+;;;;;;;;
+240;(842679.4854865386, 1182900.6716162013);SE-CNS4-04;Mazo;Rural;Suburbano;Centros poblados rurales;1,92186E+15;9,91975E+15
+;;;;;;;;
+241;(842524.3601225319, 1183227.3478158498);SE-CNS4-04;Mazo;Rural;Suburbano;Centros poblados rurales;1,4145E+16;1,01984E+15
+;;;;;;;;
+242;(842568.7339552653, 1183488.7276636623);SE-CNS4-04;Mazo;Rural;Suburbano;Centros poblados rurales;5,18012E+15;1,68035E+15
+;;;;;;;;
