@@ -21,8 +21,9 @@ from sklearn.feature_selection import SelectFromModel
 from sklearn.impute import SimpleImputer
 import os
 
-print(os.getenv('MAILGUN_DOMAIN'))
-print(os.getenv('MAILGUN_API_KEY'))
+# Imprime el valor de las variables de entorno MAILGUN_DOMAIN y MAILGUN_API_KEY
+st.write("Valor de MAILGUN_DOMAIN:", os.getenv('MAILGUN_DOMAIN'))
+st.write("Valor de MAILGUN_API_KEY:", os.getenv('MAILGUN_API_KEY'))
 
 # Funtions for user authentication
 
