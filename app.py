@@ -46,6 +46,16 @@ def load_users():
     else:
         return pd.DataFrame(columns=['username', 'password'])
 
+# Funcion para ver la informacion del desarrollador
+def show_developer_info():
+    st.subheader('Información del Desarrollador')
+    st.write("""
+    Esta aplicación ha sido desarrollada por Kevin Andrés Blandón Vélez, estudiante de la Universidad Nacional de Colombia - Sede Medellín.
+    Para más información, puedes contactarme a través de mi correo electrónico:
+    - Email: kblandonv@unal.edu.co
+    - GitHub: [kblandonv](https://github.com/kblandonv)
+    """)
+
 # Función para guardar un nuevo usuario
 def save_user(username, password, email, role):
     """
@@ -95,9 +105,6 @@ def authenticate_user(username, password):
 def is_admin(role):
     return role == 'admin'
 
-# Configuración de las credenciales de Mailgun
-mailgun_domain = 'sandboxa147627805ca4a99a6bde4e0c550061c.mailgun.org'
-mailgun_api_key = 'bf5fe813e6523270a7ce2e136a5dc9b5-32a0fef1-bb8b5c59'
 
 #Funcion para actualizar contraseña de usuario
 def update_password(username, password):
@@ -134,10 +141,10 @@ def send_email(subject, message, description, recipients):
         requests.Response: El objeto de respuesta devuelto por la API de Mailgun.
     """
     return requests.post(
-        f"https://api.mailgun.net/v3/{mailgun_domain}/messages",
-        auth=("api", mailgun_api_key),
+        f"https://api.mailgun.net/v3/{MAILGUN_DOMAIN}/messages",
+        auth=("api", MAILGUN_API_KEY),
         data={
-            "from": f"Excited User <mailgun@{mailgun_domain}>",
+            "from": f"Excited User <mailgun@{MAILGUN_DOMAIN}>",
             "to": recipients,
             "subject": subject,
             "text": f"{message}\n\n{description}"
@@ -520,7 +527,7 @@ st.title('Plataforma de Gestión de Desastres Naturales en Medellín')
 # Definir el menú principal
 menu_options = ['Inicio', 'Registro', 'Iniciar Sesión', 'Actualizar Contraseña', 'Añadir Datos', 'Enviar Alerta', 'Análisis de Datos',
                 'Visualización de Datos', 'Clima', 'Mapa Precipitaciones', 'Política de Datos', 'Mitigación de Riesgos', 'Recursos de Emergencia',
-                'Clasificación del Suelo', "Entrenar y Evaluar SVM"]
+                'Clasificación del Suelo', "Entrenar y Evaluar SVM", 'Información de Desarrollador']
 
 # Definir una variable de sesión para almacenar el valor de menu
 if 'menu' not in st.session_state:
@@ -680,6 +687,9 @@ if menu == 'Mitigación de Riesgos':
     st.write("""
     Siguiendo estos consejos y estrategias, Medellín puede fortalecer su resiliencia ante los desastres naturales y proteger la seguridad y el bienestar de sus habitantes.
     """)
+
+elif menu == 'Información de Desarrollador':
+    show_developer_info()
 
 elif menu == 'Clima':
         st.subheader('Datos Meteorológicos')
