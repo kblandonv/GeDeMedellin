@@ -95,6 +95,29 @@ def authenticate_user(username, password):
 def is_admin(role):
     return role == 'admin'
 
+# Configuración de las credenciales de Mailgun
+mailgun_domain = 'sandboxa147627805ca4a99a6bde4e0c550061c.mailgun.org'
+mailgun_api_key = 'bf5fe813e6523270a7ce2e136a5dc9b5-32a0fef1-bb8b5c59'
+
+#Funcion para actualizar contraseña de usuario
+def update_password(username, password):
+    """
+    Updates the password of a user in the users.csv file.
+
+    Parameters:
+    - username (str): The username of the user.
+    - password (str): The new password for the user.
+
+    Returns:
+    None
+    """
+    hashed_password = hash_password(password)
+    file_path = 'data/users.csv'
+    if Path(file_path).exists():
+        users = pd.read_csv(file_path)
+        user_index = users[users['username'] == username].index
+        users.loc[user_index, 'password'] = hashed_password
+        users.to_csv(file_path, index=False)
 
 # Función para enviar email usando Mailgun
 def send_email(subject, message, description, recipients):
@@ -495,7 +518,7 @@ def plot_map(data):
 st.title('Plataforma de Gestión de Desastres Naturales en Medellín')
 
 # Definir el menú principal
-menu_options = ['Inicio', 'Registro', 'Iniciar Sesión', 'Añadir Datos', 'Enviar Alerta', 'Análisis de Datos',
+menu_options = ['Inicio', 'Registro', 'Iniciar Sesión', 'Actualizar Contraseña', 'Añadir Datos', 'Enviar Alerta', 'Análisis de Datos',
                 'Visualización de Datos', 'Clima', 'Mapa Precipitaciones', 'Política de Datos', 'Mitigación de Riesgos', 'Recursos de Emergencia',
                 'Clasificación del Suelo', "Entrenar y Evaluar SVM"]
 
@@ -603,6 +626,13 @@ if st.session_state['authenticated']:
                 st.success('Datos añadidos exitosamente!')
         else:
             st.error('Acceso denegado. Debe ser administrador para añadir datos.')
+    
+    elif menu == 'Actualizar Contraseña':
+        st.subheader('Actualizar Contraseña')
+        new_password = st.text_input('Nueva Contraseña', type='password')
+        if st.button('Actualizar'):
+            update_password(st.session_state['username'], new_password)
+            st.success('Contraseña actualizada exitosamente!')
 
     elif menu == 'Análisis de Datos':
         if 'authenticated' in st.session_state and st.session_state['authenticated']:
