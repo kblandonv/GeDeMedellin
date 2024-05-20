@@ -19,6 +19,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn.feature_selection import SelectFromModel
 from sklearn.impute import SimpleImputer
+import os
 
 # Funtions for user authentication
 
@@ -140,11 +141,19 @@ def send_email(subject, message, description, recipients):
     Returns:
         requests.Response: El objeto de respuesta devuelto por la API de Mailgun.
     """
+    mailgun_domain = os.getenv('MAILGUN_DOMAIN')
+    mailgun_api_key = os.getenv('MAILGUN_API_KEY')
+
+    if not mailgun_domain or not mailgun_api_key:
+        raise ValueError("Las variables de entorno MAILGUN_DOMAIN y MAILGUN_API_KEY no están configuradas correctamente.")
+
+    import requests
+
     return requests.post(
-        f"https://api.mailgun.net/v3/{MAILGUN_DOMAIN}/messages",
-        auth=("api", MAILGUN_API_KEY),
+        f"https://api.mailgun.net/v3/{mailgun_domain}/messages",
+        auth=("api", mailgun_api_key),
         data={
-            "from": f"Excited User <mailgun@{MAILGUN_DOMAIN}>",
+            "from": f"Excited User <mailgun@{mailgun_domain}>",
             "to": recipients,
             "subject": subject,
             "text": f"{message}\n\n{description}"
