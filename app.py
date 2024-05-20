@@ -577,6 +577,13 @@ elif menu == 'Iniciar Sesión':
             st.success(f'Bienvenido {user["username"]}!')
         else:
             st.error('Nombre de usuario o contraseña incorrectos.')
+    # Opción para cerrar sesión
+    if st.session_state.get('authenticated'):
+        if st.button('Cerrar Sesión'):
+            st.session_state['authenticated'] = False
+            st.session_state.pop('username', None)
+            st.session_state.pop('user_role', None)
+            st.info('Se ha cerrado la sesión exitosamente.')
 
 
 elif menu == 'Visualización de Datos':
