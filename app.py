@@ -48,6 +48,18 @@ def load_users():
 
 # Función para guardar un nuevo usuario
 def save_user(username, password, email, role):
+    """
+    Saves a new user to the users.csv file.
+
+    Parameters:
+    - username (str): The username of the new user.
+    - password (str): The password of the new user.
+    - email (str): The email address of the new user.
+    - role (str): The role of the new user.
+
+    Returns:
+    None
+    """
     hashed_password = hash_password(password)
     new_user = pd.DataFrame({
         'username': [username],
@@ -60,6 +72,16 @@ def save_user(username, password, email, role):
 
 # Función para autenticar usuarios
 def authenticate_user(username, password):
+    """
+    Authenticates a user by checking if the provided username and password match any user in the users.csv file.
+
+    Parameters:
+    - username (str): The username of the user.
+    - password (str): The password of the user.
+
+    Returns:
+    - dict or None: A dictionary containing the user information if the authentication is successful, or None if the authentication fails.
+    """
     hashed_password = hash_password(password)
     file_path = 'data/users.csv'
     if Path(file_path).exists():
@@ -107,6 +129,15 @@ avenidas_torrenciales_data = pd.read_csv('data/avenidas_torrenciales.csv')
 
 # Función para entrenar y evaluar un modelo SVM
 def train_and_evaluate_svm(data):
+    """
+    Trains and evaluates a Support Vector Machine (SVM) model using the given data.
+
+    Parameters:
+    - data: A pandas DataFrame containing the input features and target variable.
+
+    Returns:
+    None
+    """
     # Preprocesamiento de datos
     X = data.drop(columns=['codigo', 'nombre', 'tipo_amenaza', 'categoria_proteccion', 'subcategoria_proteccion', 'Shape', 'Shape_Length', 'Shape_Area'])
     X = pd.get_dummies(X)  # Aplicar One-Hot Encoding a las características categóricas
@@ -152,9 +183,6 @@ def train_and_evaluate_svm(data):
     except Exception as e:
         st.warning(f"{e}")
     
-
-
-
 
 # Función para leer los correos electrónicos de los usuarios registrados desde un archivo CSV
 def get_registered_emails(csv_file='data/users.csv'):
@@ -645,11 +673,17 @@ elif menu == 'Entrenar y Evaluar SVM':
     st.markdown("""
     **Máquina de Soporte Vectorial (SVM)**
 
-    Un modelo de Máquina de Soporte Vectorial (SVM) es un algoritmo de aprendizaje supervisado que se utiliza tanto para clasificación como para regresión. En problemas de clasificación, el objetivo de SVM es encontrar un hiperplano en un espacio de características de alta dimensión que separe las clases de datos de la mejor manera posible. Los datos se pueden transformar para encontrar un límite de decisión ideal utilizando diferentes núcleos, en este caso, hemos utilizado un núcleo lineal.
+    Un modelo de Máquina de Soporte Vectorial (SVM) es un algoritmo de aprendizaje supervisado que se utiliza tanto para clasificación como para regresión. En problemas de clasificación, 
+    el objetivo de SVM es encontrar un hiperplano en un espacio de características de alta dimensión que separe las clases de datos de la mejor manera posible. 
+    Los datos se pueden transformar para encontrar un límite de decisión ideal utilizando diferentes núcleos, en este caso, hemos utilizado un núcleo lineal.
+
+    El modelo de Máquina de Soporte Vectorial (SVM) se ha utilizado para clasificar instancias de riesgo de inundaciones en Medellín en cuatro categorías: 
+    "Alto riesgo no mitigable", "Con condiciones de riesgo", "Riesgo medio" y "Riesgo bajo". 
 
     ### Interpretación de los Resultados del Modelo SVM
 
-    La matriz de confusión proporciona una visualización de las predicciones del modelo SVM en comparación con las verdaderas clases de riesgo. Cada celda de la matriz indica la cantidad de predicciones realizadas por el modelo para cada par de clase verdadera y clase predicha.
+    La matriz de confusión proporciona una visualización de las predicciones del modelo SVM en comparación con las verdaderas clases de riesgo. Cada celda de la matriz indica la cantidad 
+                de predicciones realizadas por el modelo para cada par de clase verdadera y clase predicha.
 
     #### Alto riesgo no mitigable:
     - Verdadero Positivos (TP): 13
@@ -687,8 +721,7 @@ elif menu == 'Entrenar y Evaluar SVM':
     - **Support:** Representa el número de ocurrencias de cada clase en el conjunto de prueba. Las clases "Alto riesgo no mitigable", "Con condiciones de riesgo", "Riesgo bajo" y "Riesgo medio" tienen 13, 28, 4 y 1 instancias respectivamente.
 
     ### Conclusión
-
-    El modelo SVM ha clasificado todas las instancias correctamente en cada una de las clases de riesgo, obteniendo una precisión, recall y F1-score perfectos para todas las clases.
+    Esto sugiere que el modelo es extremadamente eficaz para predecir el riesgo de inundación en Medellín, lo que podría ser muy útil para la planificación y la gestión de desastres.
     """)
     
     # Llama a la función train_and_evaluate_svm con tus datos existentes
