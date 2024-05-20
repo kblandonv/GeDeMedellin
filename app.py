@@ -21,6 +21,9 @@ from sklearn.feature_selection import SelectFromModel
 from sklearn.impute import SimpleImputer
 import os
 
+print(os.getenv('MAILGUN_DOMAIN'))
+print(os.getenv('MAILGUN_API_KEY'))
+
 # Funtions for user authentication
 
 def hash_password(password):
@@ -160,8 +163,6 @@ def send_email(subject, message, description, recipients):
         }
     )
 
-print(os.getenv('MAILGUN_DOMAIN'))
-print(os.getenv('MAILGUN_API_KEY'))
 
 # Cargar datos de avenidas torrenciales
 avenidas_torrenciales_data = pd.read_csv('data/avenidas_torrenciales.csv')
