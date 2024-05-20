@@ -95,9 +95,6 @@ def authenticate_user(username, password):
 def is_admin(role):
     return role == 'admin'
 
-# Configuración de las credenciales de Mailgun
-mailgun_domain = 'sandboxa147627805ca4a99a6bde4e0c550061c.mailgun.org'
-mailgun_api_key = 'bf5fe813e6523270a7ce2e136a5dc9b5-32a0fef1-bb8b5c59'
 
 # Función para enviar email usando Mailgun
 def send_email(subject, message, description, recipients):
