@@ -127,7 +127,7 @@ def update_password(username, password):
         users.to_csv(file_path, index=False)
 
 mailgun_api_key = "4f3876d2591bd4f08bf7782de6656665-a2dd40a3-c7a2cb71"
-mailgun_domain = "http://sandbox8bbdb32d1a784db59749af99d06e17a9.mailgun.org"
+mailgun_domain = "sandbox8bbdb32d1a784db59749af99d06e17a9.mailgun.org"
 
 # Función para enviar email usando Mailgun
 def send_email(subject, message, description, recipients):
