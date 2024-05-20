@@ -126,8 +126,9 @@ def update_password(username, password):
         users.loc[user_index, 'password'] = hashed_password
         users.to_csv(file_path, index=False)
 
-mailgun_api_key = "4f3876d2591bd4f08bf7782de6656665-a2dd40a3-c7a2cb71"
-mailgun_domain = "sandbox8bbdb32d1a784db59749af99d06e17a9.mailgun.org"
+# Configuración de las credenciales de Mailgun
+mailgun_domain = 'sandboxa147627805ca4a99a6bde4e0c550061c.mailgun.org'
+mailgun_api_key = 'bf5fe813e6523270a7ce2e136a5dc9b5-32a0fef1-bb8b5c59'
 
 # Función para enviar email usando Mailgun
 def send_email(subject, message, description, recipients):
