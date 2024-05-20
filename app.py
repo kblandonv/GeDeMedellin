@@ -160,6 +160,9 @@ def send_email(subject, message, description, recipients):
         }
     )
 
+print(os.getenv('MAILGUN_DOMAIN'))
+print(os.getenv('MAILGUN_API_KEY'))
+
 # Cargar datos de avenidas torrenciales
 avenidas_torrenciales_data = pd.read_csv('data/avenidas_torrenciales.csv')
 
