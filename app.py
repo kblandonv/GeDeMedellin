@@ -19,11 +19,6 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn.feature_selection import SelectFromModel
 from sklearn.impute import SimpleImputer
-import os
-
-# Imprime el valor de las variables de entorno MAILGUN_DOMAIN y MAILGUN_API_KEY
-st.write("Valor de MAILGUN_DOMAIN:", os.getenv('MAILGUN_DOMAIN'))
-st.write("Valor de MAILGUN_API_KEY:", os.getenv('MAILGUN_API_KEY'))
 
 # Funtions for user authentication
 
@@ -131,6 +126,9 @@ def update_password(username, password):
         users.loc[user_index, 'password'] = hashed_password
         users.to_csv(file_path, index=False)
 
+mailgun_api_key = "4f3876d2591bd4f08bf7782de6656665-a2dd40a3-c7a2cb71"
+mailgun_domain = "http://sandbox8bbdb32d1a784db59749af99d06e17a9.mailgun.org"
+
 # Función para enviar email usando Mailgun
 def send_email(subject, message, description, recipients):
     """
@@ -145,14 +143,6 @@ def send_email(subject, message, description, recipients):
     Returns:
         requests.Response: El objeto de respuesta devuelto por la API de Mailgun.
     """
-    mailgun_domain = os.getenv('MAILGUN_DOMAIN')
-    mailgun_api_key = os.getenv('MAILGUN_API_KEY')
-
-    if not mailgun_domain or not mailgun_api_key:
-        raise ValueError("Las variables de entorno MAILGUN_DOMAIN y MAILGUN_API_KEY no están configuradas correctamente.")
-
-    import requests
-
     return requests.post(
         f"https://api.mailgun.net/v3/{mailgun_domain}/messages",
         auth=("api", mailgun_api_key),
